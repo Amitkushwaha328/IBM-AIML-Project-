@@ -1,0 +1,757 @@
+From_State,To_State,Train_Name,Price
+Andhra Pradesh,Arunachal Pradesh,Express Rail,1678
+Andhra Pradesh,Assam,Express Rail,2600
+Andhra Pradesh,Bihar,Express Rail,700
+Andhra Pradesh,Chhattisgarh,Express Rail,1183
+Andhra Pradesh,Goa,Express Rail,795
+Andhra Pradesh,Gujarat,Express Rail,2510
+Andhra Pradesh,Haryana,Express Rail,2663
+Andhra Pradesh,Himachal Pradesh,Express Rail,2364
+Andhra Pradesh,Jharkhand,Express Rail,997
+Andhra Pradesh,Karnataka,Express Rail,2769
+Andhra Pradesh,Kerala,Express Rail,618
+Andhra Pradesh,Madhya Pradesh,Express Rail,2881
+Andhra Pradesh,Maharashtra,Express Rail,2094
+Andhra Pradesh,Manipur,Express Rail,581
+Andhra Pradesh,Meghalaya,Express Rail,2736
+Andhra Pradesh,Mizoram,Express Rail,1167
+Andhra Pradesh,Nagaland,Express Rail,1158
+Andhra Pradesh,Odisha,Express Rail,790
+Andhra Pradesh,Punjab,Express Rail,1747
+Andhra Pradesh,Rajasthan,Express Rail,2334
+Andhra Pradesh,Sikkim,Express Rail,1487
+Andhra Pradesh,Tamil Nadu,Express Rail,569
+Andhra Pradesh,Telangana,Express Rail,1821
+Andhra Pradesh,Tripura,Express Rail,533
+Andhra Pradesh,Uttar Pradesh,Express Rail,2082
+Andhra Pradesh,Uttarakhand,Express Rail,1268
+Andhra Pradesh,West Bengal,Express Rail,1571
+Arunachal Pradesh,Andhra Pradesh,Express Rail,2172
+Arunachal Pradesh,Assam,Express Rail,1167
+Arunachal Pradesh,Bihar,Express Rail,786
+Arunachal Pradesh,Chhattisgarh,Express Rail,2226
+Arunachal Pradesh,Goa,Express Rail,2356
+Arunachal Pradesh,Gujarat,Express Rail,2998
+Arunachal Pradesh,Haryana,Express Rail,1549
+Arunachal Pradesh,Himachal Pradesh,Express Rail,1257
+Arunachal Pradesh,Jharkhand,Express Rail,1223
+Arunachal Pradesh,Karnataka,Express Rail,1079
+Arunachal Pradesh,Kerala,Express Rail,1533
+Arunachal Pradesh,Madhya Pradesh,Express Rail,2516
+Arunachal Pradesh,Maharashtra,Express Rail,2829
+Arunachal Pradesh,Manipur,Express Rail,2232
+Arunachal Pradesh,Meghalaya,Express Rail,2542
+Arunachal Pradesh,Mizoram,Express Rail,1946
+Arunachal Pradesh,Nagaland,Express Rail,2233
+Arunachal Pradesh,Odisha,Express Rail,2955
+Arunachal Pradesh,Punjab,Express Rail,834
+Arunachal Pradesh,Rajasthan,Express Rail,1482
+Arunachal Pradesh,Sikkim,Express Rail,687
+Arunachal Pradesh,Tamil Nadu,Express Rail,2954
+Arunachal Pradesh,Telangana,Express Rail,2179
+Arunachal Pradesh,Tripura,Express Rail,2482
+Arunachal Pradesh,Uttar Pradesh,Express Rail,2964
+Arunachal Pradesh,Uttarakhand,Express Rail,2212
+Arunachal Pradesh,West Bengal,Express Rail,797
+Assam,Andhra Pradesh,Express Rail,536
+Assam,Arunachal Pradesh,Express Rail,651
+Assam,Bihar,Express Rail,2180
+Assam,Chhattisgarh,Express Rail,2704
+Assam,Goa,Express Rail,1092
+Assam,Gujarat,Express Rail,1892
+Assam,Haryana,Express Rail,909
+Assam,Himachal Pradesh,Express Rail,2960
+Assam,Jharkhand,Express Rail,3000
+Assam,Karnataka,Express Rail,2335
+Assam,Kerala,Express Rail,2777
+Assam,Madhya Pradesh,Express Rail,2888
+Assam,Maharashtra,Express Rail,2779
+Assam,Manipur,Express Rail,754
+Assam,Meghalaya,Express Rail,1664
+Assam,Mizoram,Express Rail,2734
+Assam,Nagaland,Express Rail,1197
+Assam,Odisha,Express Rail,992
+Assam,Punjab,Express Rail,1929
+Assam,Rajasthan,Express Rail,1213
+Assam,Sikkim,Express Rail,1918
+Assam,Tamil Nadu,Express Rail,2501
+Assam,Telangana,Express Rail,1869
+Assam,Tripura,Express Rail,2311
+Assam,Uttar Pradesh,Express Rail,1297
+Assam,Uttarakhand,Express Rail,1551
+Assam,West Bengal,Express Rail,523
+Bihar,Andhra Pradesh,Express Rail,1519
+Bihar,Arunachal Pradesh,Express Rail,2083
+Bihar,Assam,Express Rail,2859
+Bihar,Chhattisgarh,Express Rail,2012
+Bihar,Goa,Express Rail,1542
+Bihar,Gujarat,Express Rail,969
+Bihar,Haryana,Express Rail,1727
+Bihar,Himachal Pradesh,Express Rail,1170
+Bihar,Jharkhand,Express Rail,728
+Bihar,Karnataka,Express Rail,2999
+Bihar,Kerala,Express Rail,695
+Bihar,Madhya Pradesh,Express Rail,2127
+Bihar,Maharashtra,Express Rail,1788
+Bihar,Manipur,Express Rail,1140
+Bihar,Meghalaya,Express Rail,1301
+Bihar,Mizoram,Express Rail,1256
+Bihar,Nagaland,Express Rail,2665
+Bihar,Odisha,Express Rail,2435
+Bihar,Punjab,Express Rail,2433
+Bihar,Rajasthan,Express Rail,1566
+Bihar,Sikkim,Express Rail,577
+Bihar,Tamil Nadu,Express Rail,2568
+Bihar,Telangana,Express Rail,727
+Bihar,Tripura,Express Rail,2517
+Bihar,Uttar Pradesh,Express Rail,2799
+Bihar,Uttarakhand,Express Rail,1920
+Bihar,West Bengal,Express Rail,2896
+Chhattisgarh,Andhra Pradesh,Express Rail,1330
+Chhattisgarh,Arunachal Pradesh,Express Rail,1561
+Chhattisgarh,Assam,Express Rail,2972
+Chhattisgarh,Bihar,Express Rail,1583
+Chhattisgarh,Goa,Express Rail,2379
+Chhattisgarh,Gujarat,Express Rail,2818
+Chhattisgarh,Haryana,Express Rail,1798
+Chhattisgarh,Himachal Pradesh,Express Rail,2481
+Chhattisgarh,Jharkhand,Express Rail,1706
+Chhattisgarh,Karnataka,Express Rail,972
+Chhattisgarh,Kerala,Express Rail,643
+Chhattisgarh,Madhya Pradesh,Express Rail,962
+Chhattisgarh,Maharashtra,Express Rail,1252
+Chhattisgarh,Manipur,Express Rail,661
+Chhattisgarh,Meghalaya,Express Rail,1096
+Chhattisgarh,Mizoram,Express Rail,2454
+Chhattisgarh,Nagaland,Express Rail,2782
+Chhattisgarh,Odisha,Express Rail,1880
+Chhattisgarh,Punjab,Express Rail,1484
+Chhattisgarh,Rajasthan,Express Rail,2230
+Chhattisgarh,Sikkim,Express Rail,2106
+Chhattisgarh,Tamil Nadu,Express Rail,1812
+Chhattisgarh,Telangana,Express Rail,1077
+Chhattisgarh,Tripura,Express Rail,1836
+Chhattisgarh,Uttar Pradesh,Express Rail,2093
+Chhattisgarh,Uttarakhand,Express Rail,2305
+Chhattisgarh,West Bengal,Express Rail,503
+Goa,Andhra Pradesh,Express Rail,547
+Goa,Arunachal Pradesh,Express Rail,880
+Goa,Assam,Express Rail,2797
+Goa,Bihar,Express Rail,1056
+Goa,Chhattisgarh,Express Rail,2288
+Goa,Gujarat,Express Rail,2374
+Goa,Haryana,Express Rail,841
+Goa,Himachal Pradesh,Express Rail,1160
+Goa,Jharkhand,Express Rail,979
+Goa,Karnataka,Express Rail,2756
+Goa,Kerala,Express Rail,1174
+Goa,Madhya Pradesh,Express Rail,834
+Goa,Maharashtra,Express Rail,2078
+Goa,Manipur,Express Rail,2407
+Goa,Meghalaya,Express Rail,1542
+Goa,Mizoram,Express Rail,2054
+Goa,Nagaland,Express Rail,1538
+Goa,Odisha,Express Rail,1531
+Goa,Punjab,Express Rail,1709
+Goa,Rajasthan,Express Rail,880
+Goa,Sikkim,Express Rail,997
+Goa,Tamil Nadu,Express Rail,2816
+Goa,Telangana,Express Rail,548
+Goa,Tripura,Express Rail,1211
+Goa,Uttar Pradesh,Express Rail,1848
+Goa,Uttarakhand,Express Rail,1276
+Goa,West Bengal,Express Rail,1197
+Gujarat,Andhra Pradesh,Express Rail,2752
+Gujarat,Arunachal Pradesh,Express Rail,2902
+Gujarat,Assam,Express Rail,2843
+Gujarat,Bihar,Express Rail,2400
+Gujarat,Chhattisgarh,Express Rail,1387
+Gujarat,Goa,Express Rail,756
+Gujarat,Haryana,Express Rail,2382
+Gujarat,Himachal Pradesh,Express Rail,1083
+Gujarat,Jharkhand,Express Rail,1216
+Gujarat,Karnataka,Express Rail,2067
+Gujarat,Kerala,Express Rail,770
+Gujarat,Madhya Pradesh,Express Rail,1370
+Gujarat,Maharashtra,Express Rail,790
+Gujarat,Manipur,Express Rail,1751
+Gujarat,Meghalaya,Express Rail,2043
+Gujarat,Mizoram,Express Rail,1541
+Gujarat,Nagaland,Express Rail,2375
+Gujarat,Odisha,Express Rail,1194
+Gujarat,Punjab,Express Rail,1570
+Gujarat,Rajasthan,Express Rail,1697
+Gujarat,Sikkim,Express Rail,2985
+Gujarat,Tamil Nadu,Express Rail,1017
+Gujarat,Telangana,Express Rail,1338
+Gujarat,Tripura,Express Rail,2729
+Gujarat,Uttar Pradesh,Express Rail,2840
+Gujarat,Uttarakhand,Express Rail,2681
+Gujarat,West Bengal,Express Rail,1696
+Haryana,Andhra Pradesh,Express Rail,2091
+Haryana,Arunachal Pradesh,Express Rail,1831
+Haryana,Assam,Express Rail,2140
+Haryana,Bihar,Express Rail,905
+Haryana,Chhattisgarh,Express Rail,2921
+Haryana,Goa,Express Rail,2128
+Haryana,Gujarat,Express Rail,1277
+Haryana,Himachal Pradesh,Express Rail,1251
+Haryana,Jharkhand,Express Rail,914
+Haryana,Karnataka,Express Rail,734
+Haryana,Kerala,Express Rail,2773
+Haryana,Madhya Pradesh,Express Rail,1726
+Haryana,Maharashtra,Express Rail,670
+Haryana,Manipur,Express Rail,2567
+Haryana,Meghalaya,Express Rail,1830
+Haryana,Mizoram,Express Rail,2164
+Haryana,Nagaland,Express Rail,1477
+Haryana,Odisha,Express Rail,585
+Haryana,Punjab,Express Rail,1964
+Haryana,Rajasthan,Express Rail,676
+Haryana,Sikkim,Express Rail,2360
+Haryana,Tamil Nadu,Express Rail,1832
+Haryana,Telangana,Express Rail,1767
+Haryana,Tripura,Express Rail,2612
+Haryana,Uttar Pradesh,Express Rail,2325
+Haryana,Uttarakhand,Express Rail,1925
+Haryana,West Bengal,Express Rail,835
+Himachal Pradesh,Andhra Pradesh,Express Rail,1279
+Himachal Pradesh,Arunachal Pradesh,Express Rail,2363
+Himachal Pradesh,Assam,Express Rail,1552
+Himachal Pradesh,Bihar,Express Rail,1483
+Himachal Pradesh,Chhattisgarh,Express Rail,2412
+Himachal Pradesh,Goa,Express Rail,2899
+Himachal Pradesh,Gujarat,Express Rail,1689
+Himachal Pradesh,Haryana,Express Rail,2464
+Himachal Pradesh,Jharkhand,Express Rail,1763
+Himachal Pradesh,Karnataka,Express Rail,861
+Himachal Pradesh,Kerala,Express Rail,1713
+Himachal Pradesh,Madhya Pradesh,Express Rail,1126
+Himachal Pradesh,Maharashtra,Express Rail,2647
+Himachal Pradesh,Manipur,Express Rail,1387
+Himachal Pradesh,Meghalaya,Express Rail,2707
+Himachal Pradesh,Mizoram,Express Rail,753
+Himachal Pradesh,Nagaland,Express Rail,2275
+Himachal Pradesh,Odisha,Express Rail,2200
+Himachal Pradesh,Punjab,Express Rail,896
+Himachal Pradesh,Rajasthan,Express Rail,832
+Himachal Pradesh,Sikkim,Express Rail,1968
+Himachal Pradesh,Tamil Nadu,Express Rail,550
+Himachal Pradesh,Telangana,Express Rail,2965
+Himachal Pradesh,Tripura,Express Rail,2228
+Himachal Pradesh,Uttar Pradesh,Express Rail,1572
+Himachal Pradesh,Uttarakhand,Express Rail,1255
+Himachal Pradesh,West Bengal,Express Rail,1269
+Jharkhand,Andhra Pradesh,Express Rail,837
+Jharkhand,Arunachal Pradesh,Express Rail,2887
+Jharkhand,Assam,Express Rail,1056
+Jharkhand,Bihar,Express Rail,522
+Jharkhand,Chhattisgarh,Express Rail,2879
+Jharkhand,Goa,Express Rail,1124
+Jharkhand,Gujarat,Express Rail,2732
+Jharkhand,Haryana,Express Rail,2990
+Jharkhand,Himachal Pradesh,Express Rail,1492
+Jharkhand,Karnataka,Express Rail,1334
+Jharkhand,Kerala,Express Rail,1095
+Jharkhand,Madhya Pradesh,Express Rail,1999
+Jharkhand,Maharashtra,Express Rail,1199
+Jharkhand,Manipur,Express Rail,844
+Jharkhand,Meghalaya,Express Rail,2897
+Jharkhand,Mizoram,Express Rail,2828
+Jharkhand,Nagaland,Express Rail,1638
+Jharkhand,Odisha,Express Rail,1340
+Jharkhand,Punjab,Express Rail,1553
+Jharkhand,Rajasthan,Express Rail,1378
+Jharkhand,Sikkim,Express Rail,1741
+Jharkhand,Tamil Nadu,Express Rail,1359
+Jharkhand,Telangana,Express Rail,1326
+Jharkhand,Tripura,Express Rail,2433
+Jharkhand,Uttar Pradesh,Express Rail,2629
+Jharkhand,Uttarakhand,Express Rail,732
+Jharkhand,West Bengal,Express Rail,2473
+Karnataka,Andhra Pradesh,Express Rail,2212
+Karnataka,Arunachal Pradesh,Express Rail,2939
+Karnataka,Assam,Express Rail,818
+Karnataka,Bihar,Express Rail,1418
+Karnataka,Chhattisgarh,Express Rail,2124
+Karnataka,Goa,Express Rail,1489
+Karnataka,Gujarat,Express Rail,1367
+Karnataka,Haryana,Express Rail,2941
+Karnataka,Himachal Pradesh,Express Rail,2781
+Karnataka,Jharkhand,Express Rail,2276
+Karnataka,Kerala,Express Rail,1142
+Karnataka,Madhya Pradesh,Express Rail,2606
+Karnataka,Maharashtra,Express Rail,1737
+Karnataka,Manipur,Express Rail,1603
+Karnataka,Meghalaya,Express Rail,2280
+Karnataka,Mizoram,Express Rail,2961
+Karnataka,Nagaland,Express Rail,2902
+Karnataka,Odisha,Express Rail,2871
+Karnataka,Punjab,Express Rail,972
+Karnataka,Rajasthan,Express Rail,762
+Karnataka,Sikkim,Express Rail,2903
+Karnataka,Tamil Nadu,Express Rail,1291
+Karnataka,Telangana,Express Rail,763
+Karnataka,Tripura,Express Rail,2797
+Karnataka,Uttar Pradesh,Express Rail,1401
+Karnataka,Uttarakhand,Express Rail,2179
+Karnataka,West Bengal,Express Rail,2138
+Kerala,Andhra Pradesh,Express Rail,2565
+Kerala,Arunachal Pradesh,Express Rail,2560
+Kerala,Assam,Express Rail,2495
+Kerala,Bihar,Express Rail,2108
+Kerala,Chhattisgarh,Express Rail,1395
+Kerala,Goa,Express Rail,1262
+Kerala,Gujarat,Express Rail,807
+Kerala,Haryana,Express Rail,2857
+Kerala,Himachal Pradesh,Express Rail,949
+Kerala,Jharkhand,Express Rail,1391
+Kerala,Karnataka,Express Rail,2717
+Kerala,Madhya Pradesh,Express Rail,1875
+Kerala,Maharashtra,Express Rail,2823
+Kerala,Manipur,Express Rail,2983
+Kerala,Meghalaya,Express Rail,592
+Kerala,Mizoram,Express Rail,521
+Kerala,Nagaland,Express Rail,2014
+Kerala,Odisha,Express Rail,2836
+Kerala,Punjab,Express Rail,2288
+Kerala,Rajasthan,Express Rail,1324
+Kerala,Sikkim,Express Rail,1372
+Kerala,Tamil Nadu,Express Rail,884
+Kerala,Telangana,Express Rail,1937
+Kerala,Tripura,Express Rail,2533
+Kerala,Uttar Pradesh,Express Rail,983
+Kerala,Uttarakhand,Express Rail,1407
+Kerala,West Bengal,Express Rail,1156
+Madhya Pradesh,Andhra Pradesh,Express Rail,2512
+Madhya Pradesh,Arunachal Pradesh,Express Rail,2858
+Madhya Pradesh,Assam,Express Rail,2978
+Madhya Pradesh,Bihar,Express Rail,2744
+Madhya Pradesh,Chhattisgarh,Express Rail,2798
+Madhya Pradesh,Goa,Express Rail,1276
+Madhya Pradesh,Gujarat,Express Rail,1024
+Madhya Pradesh,Haryana,Express Rail,2300
+Madhya Pradesh,Himachal Pradesh,Express Rail,1301
+Madhya Pradesh,Jharkhand,Express Rail,675
+Madhya Pradesh,Karnataka,Express Rail,2080
+Madhya Pradesh,Kerala,Express Rail,2882
+Madhya Pradesh,Maharashtra,Express Rail,2600
+Madhya Pradesh,Manipur,Express Rail,2445
+Madhya Pradesh,Meghalaya,Express Rail,1556
+Madhya Pradesh,Mizoram,Express Rail,592
+Madhya Pradesh,Nagaland,Express Rail,1071
+Madhya Pradesh,Odisha,Express Rail,788
+Madhya Pradesh,Punjab,Express Rail,1167
+Madhya Pradesh,Rajasthan,Express Rail,1890
+Madhya Pradesh,Sikkim,Express Rail,641
+Madhya Pradesh,Tamil Nadu,Express Rail,2706
+Madhya Pradesh,Telangana,Express Rail,1583
+Madhya Pradesh,Tripura,Express Rail,1193
+Madhya Pradesh,Uttar Pradesh,Express Rail,1680
+Madhya Pradesh,Uttarakhand,Express Rail,1458
+Madhya Pradesh,West Bengal,Express Rail,2772
+Maharashtra,Andhra Pradesh,Express Rail,1432
+Maharashtra,Arunachal Pradesh,Express Rail,2867
+Maharashtra,Assam,Express Rail,2042
+Maharashtra,Bihar,Express Rail,1891
+Maharashtra,Chhattisgarh,Express Rail,858
+Maharashtra,Goa,Express Rail,1545
+Maharashtra,Gujarat,Express Rail,690
+Maharashtra,Haryana,Express Rail,1648
+Maharashtra,Himachal Pradesh,Express Rail,982
+Maharashtra,Jharkhand,Express Rail,1117
+Maharashtra,Karnataka,Express Rail,567
+Maharashtra,Kerala,Express Rail,1975
+Maharashtra,Madhya Pradesh,Express Rail,2063
+Maharashtra,Manipur,Express Rail,1293
+Maharashtra,Meghalaya,Express Rail,1407
+Maharashtra,Mizoram,Express Rail,1121
+Maharashtra,Nagaland,Express Rail,1991
+Maharashtra,Odisha,Express Rail,1998
+Maharashtra,Punjab,Express Rail,1293
+Maharashtra,Rajasthan,Express Rail,1691
+Maharashtra,Sikkim,Express Rail,1278
+Maharashtra,Tamil Nadu,Express Rail,1507
+Maharashtra,Telangana,Express Rail,2025
+Maharashtra,Tripura,Express Rail,690
+Maharashtra,Uttar Pradesh,Express Rail,2320
+Maharashtra,Uttarakhand,Express Rail,2496
+Maharashtra,West Bengal,Express Rail,630
+Manipur,Andhra Pradesh,Express Rail,830
+Manipur,Arunachal Pradesh,Express Rail,723
+Manipur,Assam,Express Rail,1459
+Manipur,Bihar,Express Rail,1459
+Manipur,Chhattisgarh,Express Rail,820
+Manipur,Goa,Express Rail,1815
+Manipur,Gujarat,Express Rail,1039
+Manipur,Haryana,Express Rail,1148
+Manipur,Himachal Pradesh,Express Rail,2601
+Manipur,Jharkhand,Express Rail,1972
+Manipur,Karnataka,Express Rail,1363
+Manipur,Kerala,Express Rail,551
+Manipur,Madhya Pradesh,Express Rail,2999
+Manipur,Maharashtra,Express Rail,2300
+Manipur,Meghalaya,Express Rail,2188
+Manipur,Mizoram,Express Rail,1472
+Manipur,Nagaland,Express Rail,2431
+Manipur,Odisha,Express Rail,2607
+Manipur,Punjab,Express Rail,1876
+Manipur,Rajasthan,Express Rail,1009
+Manipur,Sikkim,Express Rail,1045
+Manipur,Tamil Nadu,Express Rail,2928
+Manipur,Telangana,Express Rail,2297
+Manipur,Tripura,Express Rail,1723
+Manipur,Uttar Pradesh,Express Rail,1970
+Manipur,Uttarakhand,Express Rail,986
+Manipur,West Bengal,Express Rail,2524
+Meghalaya,Andhra Pradesh,Express Rail,1909
+Meghalaya,Arunachal Pradesh,Express Rail,881
+Meghalaya,Assam,Express Rail,829
+Meghalaya,Bihar,Express Rail,2459
+Meghalaya,Chhattisgarh,Express Rail,1753
+Meghalaya,Goa,Express Rail,703
+Meghalaya,Gujarat,Express Rail,565
+Meghalaya,Haryana,Express Rail,919
+Meghalaya,Himachal Pradesh,Express Rail,2040
+Meghalaya,Jharkhand,Express Rail,2972
+Meghalaya,Karnataka,Express Rail,1035
+Meghalaya,Kerala,Express Rail,2996
+Meghalaya,Madhya Pradesh,Express Rail,1398
+Meghalaya,Maharashtra,Express Rail,1471
+Meghalaya,Manipur,Express Rail,819
+Meghalaya,Mizoram,Express Rail,1517
+Meghalaya,Nagaland,Express Rail,1453
+Meghalaya,Odisha,Express Rail,2665
+Meghalaya,Punjab,Express Rail,2273
+Meghalaya,Rajasthan,Express Rail,1213
+Meghalaya,Sikkim,Express Rail,1769
+Meghalaya,Tamil Nadu,Express Rail,1864
+Meghalaya,Telangana,Express Rail,2066
+Meghalaya,Tripura,Express Rail,2483
+Meghalaya,Uttar Pradesh,Express Rail,2058
+Meghalaya,Uttarakhand,Express Rail,2163
+Meghalaya,West Bengal,Express Rail,1438
+Mizoram,Andhra Pradesh,Express Rail,1035
+Mizoram,Arunachal Pradesh,Express Rail,1869
+Mizoram,Assam,Express Rail,2983
+Mizoram,Bihar,Express Rail,641
+Mizoram,Chhattisgarh,Express Rail,2623
+Mizoram,Goa,Express Rail,609
+Mizoram,Gujarat,Express Rail,2451
+Mizoram,Haryana,Express Rail,1053
+Mizoram,Himachal Pradesh,Express Rail,2653
+Mizoram,Jharkhand,Express Rail,1611
+Mizoram,Karnataka,Express Rail,1859
+Mizoram,Kerala,Express Rail,2124
+Mizoram,Madhya Pradesh,Express Rail,2143
+Mizoram,Maharashtra,Express Rail,2448
+Mizoram,Manipur,Express Rail,692
+Mizoram,Meghalaya,Express Rail,1135
+Mizoram,Nagaland,Express Rail,2549
+Mizoram,Odisha,Express Rail,2814
+Mizoram,Punjab,Express Rail,1728
+Mizoram,Rajasthan,Express Rail,1140
+Mizoram,Sikkim,Express Rail,1050
+Mizoram,Tamil Nadu,Express Rail,2139
+Mizoram,Telangana,Express Rail,609
+Mizoram,Tripura,Express Rail,2735
+Mizoram,Uttar Pradesh,Express Rail,542
+Mizoram,Uttarakhand,Express Rail,2898
+Mizoram,West Bengal,Express Rail,2675
+Nagaland,Andhra Pradesh,Express Rail,530
+Nagaland,Arunachal Pradesh,Express Rail,2325
+Nagaland,Assam,Express Rail,1084
+Nagaland,Bihar,Express Rail,1636
+Nagaland,Chhattisgarh,Express Rail,2671
+Nagaland,Goa,Express Rail,2593
+Nagaland,Gujarat,Express Rail,699
+Nagaland,Haryana,Express Rail,2977
+Nagaland,Himachal Pradesh,Express Rail,1124
+Nagaland,Jharkhand,Express Rail,937
+Nagaland,Karnataka,Express Rail,768
+Nagaland,Kerala,Express Rail,1266
+Nagaland,Madhya Pradesh,Express Rail,2460
+Nagaland,Maharashtra,Express Rail,1285
+Nagaland,Manipur,Express Rail,1703
+Nagaland,Meghalaya,Express Rail,1029
+Nagaland,Mizoram,Express Rail,1946
+Nagaland,Odisha,Express Rail,2810
+Nagaland,Punjab,Express Rail,984
+Nagaland,Rajasthan,Express Rail,954
+Nagaland,Sikkim,Express Rail,1147
+Nagaland,Tamil Nadu,Express Rail,1605
+Nagaland,Telangana,Express Rail,1330
+Nagaland,Tripura,Express Rail,979
+Nagaland,Uttar Pradesh,Express Rail,2343
+Nagaland,Uttarakhand,Express Rail,781
+Nagaland,West Bengal,Express Rail,2977
+Odisha,Andhra Pradesh,Express Rail,1915
+Odisha,Arunachal Pradesh,Express Rail,1189
+Odisha,Assam,Express Rail,726
+Odisha,Bihar,Express Rail,2701
+Odisha,Chhattisgarh,Express Rail,2033
+Odisha,Goa,Express Rail,1232
+Odisha,Gujarat,Express Rail,2130
+Odisha,Haryana,Express Rail,1859
+Odisha,Himachal Pradesh,Express Rail,2264
+Odisha,Jharkhand,Express Rail,1820
+Odisha,Karnataka,Express Rail,1029
+Odisha,Kerala,Express Rail,514
+Odisha,Madhya Pradesh,Express Rail,860
+Odisha,Maharashtra,Express Rail,2548
+Odisha,Manipur,Express Rail,770
+Odisha,Meghalaya,Express Rail,2631
+Odisha,Mizoram,Express Rail,2798
+Odisha,Nagaland,Express Rail,570
+Odisha,Punjab,Express Rail,981
+Odisha,Rajasthan,Express Rail,2123
+Odisha,Sikkim,Express Rail,2853
+Odisha,Tamil Nadu,Express Rail,2378
+Odisha,Telangana,Express Rail,527
+Odisha,Tripura,Express Rail,1805
+Odisha,Uttar Pradesh,Express Rail,1337
+Odisha,Uttarakhand,Express Rail,2325
+Odisha,West Bengal,Express Rail,833
+Punjab,Andhra Pradesh,Express Rail,1221
+Punjab,Arunachal Pradesh,Express Rail,1537
+Punjab,Assam,Express Rail,1474
+Punjab,Bihar,Express Rail,2614
+Punjab,Chhattisgarh,Express Rail,2392
+Punjab,Goa,Express Rail,679
+Punjab,Gujarat,Express Rail,2073
+Punjab,Haryana,Express Rail,828
+Punjab,Himachal Pradesh,Express Rail,1085
+Punjab,Jharkhand,Express Rail,2300
+Punjab,Karnataka,Express Rail,2947
+Punjab,Kerala,Express Rail,2522
+Punjab,Madhya Pradesh,Express Rail,1807
+Punjab,Maharashtra,Express Rail,1135
+Punjab,Manipur,Express Rail,984
+Punjab,Meghalaya,Express Rail,1385
+Punjab,Mizoram,Express Rail,981
+Punjab,Nagaland,Express Rail,842
+Punjab,Odisha,Express Rail,774
+Punjab,Rajasthan,Express Rail,871
+Punjab,Sikkim,Express Rail,1095
+Punjab,Tamil Nadu,Express Rail,2837
+Punjab,Telangana,Express Rail,1817
+Punjab,Tripura,Express Rail,1151
+Punjab,Uttar Pradesh,Express Rail,2521
+Punjab,Uttarakhand,Express Rail,2199
+Punjab,West Bengal,Express Rail,2005
+Rajasthan,Andhra Pradesh,Express Rail,2180
+Rajasthan,Arunachal Pradesh,Express Rail,783
+Rajasthan,Assam,Express Rail,1479
+Rajasthan,Bihar,Express Rail,2375
+Rajasthan,Chhattisgarh,Express Rail,2239
+Rajasthan,Goa,Express Rail,1814
+Rajasthan,Gujarat,Express Rail,1502
+Rajasthan,Haryana,Express Rail,1639
+Rajasthan,Himachal Pradesh,Express Rail,828
+Rajasthan,Jharkhand,Express Rail,2942
+Rajasthan,Karnataka,Express Rail,2760
+Rajasthan,Kerala,Express Rail,2175
+Rajasthan,Madhya Pradesh,Express Rail,618
+Rajasthan,Maharashtra,Express Rail,1471
+Rajasthan,Manipur,Express Rail,1293
+Rajasthan,Meghalaya,Express Rail,2596
+Rajasthan,Mizoram,Express Rail,2131
+Rajasthan,Nagaland,Express Rail,1849
+Rajasthan,Odisha,Express Rail,2597
+Rajasthan,Punjab,Express Rail,1941
+Rajasthan,Sikkim,Express Rail,2221
+Rajasthan,Tamil Nadu,Express Rail,1460
+Rajasthan,Telangana,Express Rail,1036
+Rajasthan,Tripura,Express Rail,1070
+Rajasthan,Uttar Pradesh,Express Rail,746
+Rajasthan,Uttarakhand,Express Rail,1139
+Rajasthan,West Bengal,Express Rail,1420
+Sikkim,Andhra Pradesh,Express Rail,1397
+Sikkim,Arunachal Pradesh,Express Rail,2476
+Sikkim,Assam,Express Rail,1814
+Sikkim,Bihar,Express Rail,676
+Sikkim,Chhattisgarh,Express Rail,2106
+Sikkim,Goa,Express Rail,1874
+Sikkim,Gujarat,Express Rail,1869
+Sikkim,Haryana,Express Rail,1696
+Sikkim,Himachal Pradesh,Express Rail,2551
+Sikkim,Jharkhand,Express Rail,1155
+Sikkim,Karnataka,Express Rail,1401
+Sikkim,Kerala,Express Rail,2720
+Sikkim,Madhya Pradesh,Express Rail,2333
+Sikkim,Maharashtra,Express Rail,2402
+Sikkim,Manipur,Express Rail,2897
+Sikkim,Meghalaya,Express Rail,1075
+Sikkim,Mizoram,Express Rail,2139
+Sikkim,Nagaland,Express Rail,2601
+Sikkim,Odisha,Express Rail,680
+Sikkim,Punjab,Express Rail,1046
+Sikkim,Rajasthan,Express Rail,862
+Sikkim,Tamil Nadu,Express Rail,2317
+Sikkim,Telangana,Express Rail,989
+Sikkim,Tripura,Express Rail,2206
+Sikkim,Uttar Pradesh,Express Rail,827
+Sikkim,Uttarakhand,Express Rail,2483
+Sikkim,West Bengal,Express Rail,809
+Tamil Nadu,Andhra Pradesh,Express Rail,519
+Tamil Nadu,Arunachal Pradesh,Express Rail,1110
+Tamil Nadu,Assam,Express Rail,999
+Tamil Nadu,Bihar,Express Rail,1167
+Tamil Nadu,Chhattisgarh,Express Rail,2900
+Tamil Nadu,Goa,Express Rail,2967
+Tamil Nadu,Gujarat,Express Rail,2635
+Tamil Nadu,Haryana,Express Rail,2255
+Tamil Nadu,Himachal Pradesh,Express Rail,2787
+Tamil Nadu,Jharkhand,Express Rail,501
+Tamil Nadu,Karnataka,Express Rail,852
+Tamil Nadu,Kerala,Express Rail,1680
+Tamil Nadu,Madhya Pradesh,Express Rail,1544
+Tamil Nadu,Maharashtra,Express Rail,1498
+Tamil Nadu,Manipur,Express Rail,2676
+Tamil Nadu,Meghalaya,Express Rail,639
+Tamil Nadu,Mizoram,Express Rail,1486
+Tamil Nadu,Nagaland,Express Rail,1353
+Tamil Nadu,Odisha,Express Rail,986
+Tamil Nadu,Punjab,Express Rail,2166
+Tamil Nadu,Rajasthan,Express Rail,2634
+Tamil Nadu,Sikkim,Express Rail,2658
+Tamil Nadu,Telangana,Express Rail,920
+Tamil Nadu,Tripura,Express Rail,2573
+Tamil Nadu,Uttar Pradesh,Express Rail,2670
+Tamil Nadu,Uttarakhand,Express Rail,2475
+Tamil Nadu,West Bengal,Express Rail,1661
+Telangana,Andhra Pradesh,Express Rail,2584
+Telangana,Arunachal Pradesh,Express Rail,1130
+Telangana,Assam,Express Rail,1762
+Telangana,Bihar,Express Rail,2445
+Telangana,Chhattisgarh,Express Rail,2689
+Telangana,Goa,Express Rail,1601
+Telangana,Gujarat,Express Rail,2216
+Telangana,Haryana,Express Rail,2281
+Telangana,Himachal Pradesh,Express Rail,2060
+Telangana,Jharkhand,Express Rail,1716
+Telangana,Karnataka,Express Rail,1453
+Telangana,Kerala,Express Rail,833
+Telangana,Madhya Pradesh,Express Rail,862
+Telangana,Maharashtra,Express Rail,1707
+Telangana,Manipur,Express Rail,2745
+Telangana,Meghalaya,Express Rail,1772
+Telangana,Mizoram,Express Rail,2108
+Telangana,Nagaland,Express Rail,2600
+Telangana,Odisha,Express Rail,2382
+Telangana,Punjab,Express Rail,2121
+Telangana,Rajasthan,Express Rail,2798
+Telangana,Sikkim,Express Rail,3000
+Telangana,Tamil Nadu,Express Rail,1625
+Telangana,Tripura,Express Rail,1255
+Telangana,Uttar Pradesh,Express Rail,1560
+Telangana,Uttarakhand,Express Rail,2113
+Telangana,West Bengal,Express Rail,1688
+Tripura,Andhra Pradesh,Express Rail,554
+Tripura,Arunachal Pradesh,Express Rail,1668
+Tripura,Assam,Express Rail,2774
+Tripura,Bihar,Express Rail,1363
+Tripura,Chhattisgarh,Express Rail,1805
+Tripura,Goa,Express Rail,2867
+Tripura,Gujarat,Express Rail,1042
+Tripura,Haryana,Express Rail,1805
+Tripura,Himachal Pradesh,Express Rail,2878
+Tripura,Jharkhand,Express Rail,1451
+Tripura,Karnataka,Express Rail,813
+Tripura,Kerala,Express Rail,1478
+Tripura,Madhya Pradesh,Express Rail,1928
+Tripura,Maharashtra,Express Rail,1683
+Tripura,Manipur,Express Rail,825
+Tripura,Meghalaya,Express Rail,655
+Tripura,Mizoram,Express Rail,1493
+Tripura,Nagaland,Express Rail,2447
+Tripura,Odisha,Express Rail,2891
+Tripura,Punjab,Express Rail,1039
+Tripura,Rajasthan,Express Rail,2193
+Tripura,Sikkim,Express Rail,1436
+Tripura,Tamil Nadu,Express Rail,2794
+Tripura,Telangana,Express Rail,514
+Tripura,Uttar Pradesh,Express Rail,1263
+Tripura,Uttarakhand,Express Rail,2121
+Tripura,West Bengal,Express Rail,847
+Uttar Pradesh,Andhra Pradesh,Express Rail,2102
+Uttar Pradesh,Arunachal Pradesh,Express Rail,735
+Uttar Pradesh,Assam,Express Rail,1819
+Uttar Pradesh,Bihar,Express Rail,1764
+Uttar Pradesh,Chhattisgarh,Express Rail,2400
+Uttar Pradesh,Goa,Express Rail,1990
+Uttar Pradesh,Gujarat,Express Rail,1255
+Uttar Pradesh,Haryana,Express Rail,601
+Uttar Pradesh,Himachal Pradesh,Express Rail,1397
+Uttar Pradesh,Jharkhand,Express Rail,2235
+Uttar Pradesh,Karnataka,Express Rail,2157
+Uttar Pradesh,Kerala,Express Rail,1634
+Uttar Pradesh,Madhya Pradesh,Express Rail,2071
+Uttar Pradesh,Maharashtra,Express Rail,1790
+Uttar Pradesh,Manipur,Express Rail,2031
+Uttar Pradesh,Meghalaya,Express Rail,1723
+Uttar Pradesh,Mizoram,Express Rail,652
+Uttar Pradesh,Nagaland,Express Rail,2295
+Uttar Pradesh,Odisha,Express Rail,1826
+Uttar Pradesh,Punjab,Express Rail,2072
+Uttar Pradesh,Rajasthan,Express Rail,1687
+Uttar Pradesh,Sikkim,Express Rail,1357
+Uttar Pradesh,Tamil Nadu,Express Rail,520
+Uttar Pradesh,Telangana,Express Rail,1772
+Uttar Pradesh,Tripura,Express Rail,1896
+Uttar Pradesh,Uttarakhand,Express Rail,1264
+Uttar Pradesh,West Bengal,Express Rail,2759
+Uttarakhand,Andhra Pradesh,Express Rail,1151
+Uttarakhand,Arunachal Pradesh,Express Rail,2816
+Uttarakhand,Assam,Express Rail,2172
+Uttarakhand,Bihar,Express Rail,2612
+Uttarakhand,Chhattisgarh,Express Rail,1489
+Uttarakhand,Goa,Express Rail,2793
+Uttarakhand,Gujarat,Express Rail,1962
+Uttarakhand,Haryana,Express Rail,784
+Uttarakhand,Himachal Pradesh,Express Rail,1002
+Uttarakhand,Jharkhand,Express Rail,1172
+Uttarakhand,Karnataka,Express Rail,2497
+Uttarakhand,Kerala,Express Rail,2468
+Uttarakhand,Madhya Pradesh,Express Rail,2413
+Uttarakhand,Maharashtra,Express Rail,1866
+Uttarakhand,Manipur,Express Rail,691
+Uttarakhand,Meghalaya,Express Rail,1433
+Uttarakhand,Mizoram,Express Rail,1698
+Uttarakhand,Nagaland,Express Rail,1637
+Uttarakhand,Odisha,Express Rail,894
+Uttarakhand,Punjab,Express Rail,1618
+Uttarakhand,Rajasthan,Express Rail,2293
+Uttarakhand,Sikkim,Express Rail,1783
+Uttarakhand,Tamil Nadu,Express Rail,2857
+Uttarakhand,Telangana,Express Rail,1631
+Uttarakhand,Tripura,Express Rail,2680
+Uttarakhand,Uttar Pradesh,Express Rail,2159
+Uttarakhand,West Bengal,Express Rail,2782
+West Bengal,Andhra Pradesh,Express Rail,1162
+West Bengal,Arunachal Pradesh,Express Rail,2155
+West Bengal,Assam,Express Rail,2078
+West Bengal,Bihar,Express Rail,1695
+West Bengal,Chhattisgarh,Express Rail,2115
+West Bengal,Goa,Express Rail,1024
+West Bengal,Gujarat,Express Rail,1666
+West Bengal,Haryana,Express Rail,2844
+West Bengal,Himachal Pradesh,Express Rail,2841
+West Bengal,Jharkhand,Express Rail,1290
+West Bengal,Karnataka,Express Rail,2720
+West Bengal,Kerala,Express Rail,2744
+West Bengal,Madhya Pradesh,Express Rail,1377
+West Bengal,Maharashtra,Express Rail,678
+West Bengal,Manipur,Express Rail,2582
+West Bengal,Meghalaya,Express Rail,1548
+West Bengal,Mizoram,Express Rail,2503
+West Bengal,Nagaland,Express Rail,2073
+West Bengal,Odisha,Express Rail,2155
+West Bengal,Punjab,Express Rail,2383
+West Bengal,Rajasthan,Express Rail,2858
+West Bengal,Sikkim,Express Rail,1274
+West Bengal,Tamil Nadu,Express Rail,1890
+West Bengal,Telangana,Express Rail,1400
+West Bengal,Tripura,Express Rail,2708
+West Bengal,Uttar Pradesh,Express Rail,1158
+West Bengal,Uttarakhand,Express Rail,1742
