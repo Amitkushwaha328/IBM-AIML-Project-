@@ -7,21 +7,6 @@ import random
 import google.generativeai as genai
 from fpdf import FPDF
 
-# --- DEBUGGING START ---
-st.title("🔍 File System Check")
-st.write(f"**Current Folder:** `{os.getcwd()}`")
-
-st.write("**Files in this folder:**")
-st.code(os.listdir('.'))
-
-# Check inside SmartRoute.AI folder if it exists
-if os.path.exists("SmartRoute.AI"):
-    st.write("**Files in SmartRoute.AI folder:**")
-    st.code(os.listdir("SmartRoute.AI"))
-else:
-    st.write("❌ 'SmartRoute.AI' folder not found here.")
-# --- DEBUGGING END ---
-
 
 # ==========================================
 # 1. PAGE CONFIGURATION
@@ -646,6 +631,7 @@ elif mode == "🔐 Admin Dashboard":
     </div>
 
     """, unsafe_allow_html=True)
+
 
 
 
