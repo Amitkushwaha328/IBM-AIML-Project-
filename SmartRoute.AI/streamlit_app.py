@@ -206,7 +206,7 @@ if mode == "🌍 Trip Planner":
                 try:
                     genai.configure(api_key=api_key)
                     # USING YOUR PREFERRED MODEL NAME
-                    model = genai.GenerativeModel('gemini-flash-latest')
+                    model = genai.GenerativeModel('gemini-2.5-flash')
 
                     city_list = ", ".join(data['Cities']['city'].unique()) if not data['Cities'].empty else "Manali, Goa, Jaipur, Kerala"
                     
@@ -631,6 +631,7 @@ elif mode == "🔐 Admin Dashboard":
     </div>
 
     """, unsafe_allow_html=True)
+
 
 
 
