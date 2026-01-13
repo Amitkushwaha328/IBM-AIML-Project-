@@ -89,14 +89,7 @@ def safe_read_csv(filename):
         st.error(f"Error reading {filename}: {e}")
         return pd.DataFrame()
 
-# OLD
-def load_data():
-    return {
-        "Cities": safe_read_csv("clean_city.csv"),
-        ...
-    }
-
-# NEW (Tell it to look inside the folder)
+@st.cache_data(ttl=60)
 def load_data():
     return {
         "Cities": safe_read_csv("SmartRoute.AI/clean_city.csv"),
@@ -653,6 +646,7 @@ elif mode == "🔐 Admin Dashboard":
     </div>
 
     """, unsafe_allow_html=True)
+
 
 
 
