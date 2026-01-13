@@ -75,12 +75,19 @@ def safe_read_csv(filename):
 
 @st.cache_data(ttl=60)
 def load_data():
+    # If your script is OUTSIDE the folder, but CSVs are INSIDE "SmartRoute.AI":
+    folder = "SmartRoute.AI/" 
+    
+    # OR, if your script is INSIDE the folder too, just leave it empty:
+    # folder = "" 
+    
+    # Try this first (Assuming script is outside, files are inside):
     return {
-        "Cities": safe_read_csv("SmartRoute.AI/clean_city.csv"),
-        "Hotels": safe_read_csv("SmartRoute.AI/clean_hotel.csv"),
-        "Places": safe_read_csv("SmartRoute.AI/clean_places.csv"),
-        "Food":   safe_read_csv("SmartRoute.AI/clean_food.csv"),
-        "Transport": safe_read_csv("SmartRoute.AI/clean_transport.csv"),
+        "Cities": safe_read_csv(folder + "clean_city.csv"),
+        "Hotels": safe_read_csv(folder + "clean_hotel.csv"),
+        "Places": safe_read_csv(folder + "clean_places.csv"),
+        "Food": safe_read_csv(folder + "clean_food.csv"),
+        "Transport": safe_read_csv(folder + "clean_transport.csv"),
     }
 
 data = load_data()
@@ -630,3 +637,4 @@ elif mode == "🔐 Admin Dashboard":
     </div>
 
     """, unsafe_allow_html=True)
+
