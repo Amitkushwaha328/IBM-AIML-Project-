@@ -49,36 +49,30 @@ st.markdown("""
 # 3. ROBUST DATA ENGINE
 # ==========================================
 def safe_read_csv(filename):
-    # FIX: Find the folder where THIS python file is living
-    current_folder = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_folder, filename)
-
-    # Check if file exists at that path
-    if not os.path.exists(file_path):
-        # Debugging: Print to the screen so we see what's wrong
-        print(f"❌ Missing file: {file_path}") 
+    if not os.path.exists(filename):
         return pd.DataFrame()
-
     try:
-        df = pd.read_csv(file_path)
-
-        # Normalize columns
+        df = pd.read_csv(filename)
+        # Normalize columns: remove spaces and convert to lowercase
         df.columns = df.columns.str.strip().str.lower()
 
+        # Mapping common column variations to standard names
         rename_map = {
             'location': 'city', 'place_name': 'name', 'place': 'name',
             'hotel_name': 'name', 'hotel_price': 'price', 'cost': 'price',
             'description': 'desc', 'about': 'desc', 'city_desc': 'desc',
             'province': 'state', 'territory': 'state',
             'best_time_to_visit': 'best_time',
-            'type': 'diet'
+            'type': 'diet'  # Ensures type is mapped to diet if needed
         }
         df.rename(columns=rename_map, inplace=True)
+        # Remove duplicate columns if any exist after renaming
         df = df.loc[:, ~df.columns.duplicated()]
         return df
     except Exception as e:
         st.error(f"Error reading {filename}: {e}")
         return pd.DataFrame()
+
 
 @st.cache_data(ttl=60)
 def load_data():
@@ -636,3 +630,4 @@ elif mode == "🔐 Admin Dashboard":
     Built with Streamlit & Gemini AI
     </div>
     """, unsafe_allow_html=True)
+
