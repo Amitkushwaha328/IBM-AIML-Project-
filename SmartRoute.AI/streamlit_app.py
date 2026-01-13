@@ -106,7 +106,7 @@ def create_pdf(city, days, travelers, total_cost, itinerary_text):
     # Clean text for PDF (Handle unicode issues)
     clean_text = itinerary_text.encode('latin-1', 'replace').decode('latin-1')
     pdf.multi_cell(0, 10, txt=clean_text)
-    return bytes(pdf.output(dest="S"))
+    return pdf.output(dest="S").encode('latin-1')
 
 # ==========================================
 # 4. SIDEBAR & SESSION STATE
@@ -630,4 +630,5 @@ elif mode == "🔐 Admin Dashboard":
     Built with Streamlit & Gemini AI
     </div>
     """, unsafe_allow_html=True)
+
 
