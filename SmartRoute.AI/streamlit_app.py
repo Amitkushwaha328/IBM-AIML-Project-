@@ -73,21 +73,49 @@ def safe_read_csv(filename):
         st.error(f"Error reading {filename}: {e}")
         return pd.DataFrame()
 
+# --- COPY THIS REPLACEMENT CODE ---
+
+def safe_read_csv(filename):
+    # 1. Try finding the file in the current folder
+    if os.path.exists(filename):
+        cur_file = filename
+    # 2. Try finding it inside the SmartRoute.AI folder
+    elif os.path.exists(f"SmartRoute.AI/{filename}"):
+        cur_file = f"SmartRoute.AI/{filename}"
+    else:
+        # If not found, return empty
+        return pd.DataFrame()
+        
+    try:
+        df = pd.read_csv(cur_file)
+        # Normalize columns: remove spaces and convert to lowercase
+        df.columns = df.columns.str.strip().str.lower()
+        
+        # Mapping common column variations to standard names
+        rename_map = {
+            'location': 'city', 'place_name': 'name', 'place': 'name',
+            'hotel_name': 'name', 'hotel_price': 'price', 'cost': 'price',
+            'description': 'desc', 'about': 'desc', 'city_desc': 'desc',
+            'province': 'state', 'territory': 'state',
+            'best_time_to_visit': 'best_time',
+            'type': 'diet'
+        }
+        df.rename(columns=rename_map, inplace=True)
+        # Remove duplicate columns
+        df = df.loc[:, ~df.columns.duplicated()]
+        return df
+    except Exception as e:
+        st.error(f"Error reading {filename}: {e}")
+        return pd.DataFrame()
+
 @st.cache_data(ttl=60)
 def load_data():
-    # If your script is OUTSIDE the folder, but CSVs are INSIDE "SmartRoute.AI":
-    folder = "SmartRoute.AI/" 
-    
-    # OR, if your script is INSIDE the folder too, just leave it empty:
-    # folder = "" 
-    
-    # Try this first (Assuming script is outside, files are inside):
     return {
-        "Cities": safe_read_csv(folder + "clean_city.csv"),
-        "Hotels": safe_read_csv(folder + "clean_hotel.csv"),
-        "Places": safe_read_csv(folder + "clean_places.csv"),
-        "Food": safe_read_csv(folder + "clean_food.csv"),
-        "Transport": safe_read_csv(folder + "clean_transport.csv"),
+        "Cities": safe_read_csv("clean_city.csv"),
+        "Hotels": safe_read_csv("clean_hotel.csv"),
+        "Places": safe_read_csv("clean_places.csv"),
+        "Food": safe_read_csv("clean_food.csv"),
+        "Transport": safe_read_csv("clean_transport.csv"),
     }
 
 data = load_data()
@@ -637,4 +665,5 @@ elif mode == "🔐 Admin Dashboard":
     </div>
 
     """, unsafe_allow_html=True)
+
 
