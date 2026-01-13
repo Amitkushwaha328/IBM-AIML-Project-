@@ -1,0 +1,535 @@
+City,Ratings,Ideal_duration,Best_time_to_visit,City_desc,Cluster,State,
+Manali,4.5,2-4 days,October-June,[' One of the most popular hill stations in Himachal...'],4,Himachal Pradesh,
+Leh Ladakh,4.6,5-7 days,July-October,"["" Ladakh is a union territory...""]",0,Ladakh,
+Coorg,4.2,2-3 days,September-June,[' Located amidst imposing mountains in Karnataka...'],0,Karnataka,
+Andaman,4.5,4-6 days,October-March,[' Replete with turquoise blue water beaches...'],0,Andaman and Nicobar Islands,
+Lakshadweep,4,4-6 days,September-February,"["" Formerly known as Laccadive Islands...""]",2,Lakshadweep,
+Goa,4.5,3-7 days,November-February,"["" Lying on the western coast...""]",0,Goa,
+Udaipur,4.3,2-3 days,October-March,"[' Udaipur, also known as the City of Lakes...']",0,Rajasthan,
+Srinagar,4.5,3-5 days,April-October,"["" Famously known as 'Heaven on Earth...""]",0,Jammu and Kashmir,
+Gangtok,4.4,2-4 days,March-June,"[' Incredibly alluring, pleasantly boisterous...']",0,Sikkim,
+Munnar,4.5,2-3 days,September-March,[' Munnar is a town in the Western Ghats...'],0,Kerala,
+Varkala,4.3,2-3 days,October-March,[' Varkala is a coastal town...'],0,Kerala,
+Mcleodganj,4.3,2-3 days,October-June,[' Mcleodganj is a hill station...'],4,Himachal Pradesh,
+Rishikesh,4.4,2-3 days,September-June,[' Rishikesh is a city in India’s northern state...'],4,Uttarakhand,
+Alleppey,4.3,2-3 days,June-March,[' Alappuzha (or Alleppey) is a city...'],0,Kerala,
+Darjeeling,4.2,2-3 days,April-June,[' Darjeeling is a town in India...'],4,West Bengal,
+Nainital,4.2,2-3 days,March-June,[' Nainital is a Himalayan resort town...'],4,Uttarakhand,
+Shimla,4.2,2-3 days,March-June,[' Shimla is the capital of the northern Indian state...'],4,Himachal Pradesh,
+Ooty,4.3,2-3 days,October-June,[' Ooty is a resort town...'],4,Tamil Nadu,
+Jaipur,4.3,2-3 days,October-March,[' Jaipur is the capital of India’s Rajasthan state...'],0,Rajasthan,
+Lonavala,4.1,1-2 days,October-May,[' Lonavala is a hill station...'],4,Maharashtra,
+Mussoorie,4.2,2-3 days,September-June,[' Mussoorie is a hill station...'],4,Uttarakhand,
+Kodaikanal,4.3,2-3 days,September-May,[' Kodaikanal is a hill town...'],4,Tamil Nadu,
+Dalhousie,4.2,2-3 days,March-June,[' Dalhousie is a high-altitude town...'],4,Himachal Pradesh,
+Pachmarhi,4.2,2-3 days,October-June,[' Pachmarhi is a hill station...'],4,Madhya Pradesh,
+Varanasi,4.3,2-3 days,October-March,[' Varanasi is a city in the northern Indian state...'],0,Uttar Pradesh,
+Mumbai,4.4,2-3 days,October-March,[' Mumbai (formerly called Bombay) is a densely populated city...'],0,Maharashtra,
+Agra,4.2,1-2 days,October-March,[' Agra is a city on the banks of the Yamuna river...'],0,Uttar Pradesh,
+Kolkata,4.3,2-3 days,October-March,[' Kolkata (formerly Calcutta) is the capital...'],0,West Bengal,
+Jodhpur,4.3,2-3 days,October-March,[' Jodhpur is a city in the Thar Desert...'],0,Rajasthan,
+Bangalore,4.3,2-3 days,October-February,[' Bengaluru (also called Bangalore) is the capital...'],0,Karnataka,
+Amritsar,4.3,1-2 days,October-March,[' Amritsar is a city in the northwestern Indian state...'],0,Punjab,
+Delhi,4.4,2-3 days,October-March,"[' Delhi, India’s capital territory...']",0,Delhi,
+Jaisalmer,4.3,2-3 days,October-March,[' Jaisalmer is a former medieval trading center...'],0,Rajasthan,
+Mount Abu,4.2,2-3 days,October-March,[' Mount Abu is a hill station...'],4,Rajasthan,
+Wayanad,4.2,2-3 days,October-May,[' Wayanad is a rural district...'],0,Kerala,
+Hyderabad,4.3,2-3 days,October-March,[' Hyderabad is the capital of southern India...'],0,Telangana,
+Pondicherry,4.3,2-3 days,October-March,[' Pondicherry (or Puducherry) is a Union Territory...'],0,Puducherry,
+Khajuraho,4.3,1-2 days,October-March,[' Khajuraho is a group of monuments...'],0,Madhya Pradesh,
+Chennai,4.1,2-3 days,October-March,"[' Chennai, on the Bay of Bengal...']",0,Tamil Nadu,
+Vaishno Devi,4.4,2-3 days,March-October,[' Vaishno Devi is a manifestation of the Hindu Mother Goddess...'],0,Jammu and Kashmir,
+Ajanta And Ellora Caves,4.4,2-3 days,October-March,[' The Ajanta and Ellora Caves are located...'],0,Maharashtra,
+Haridwar,4.2,2-3 days,October-March,[' Haridwar is an ancient city...'],0,Uttarakhand,
+Kanyakumari,4.2,1-2 days,October-March,[' Kanyakumari is a coastal town...'],0,Tamil Nadu,
+Pune,4.2,2-3 days,October-March,[' Pune is a sprawling city...'],0,Maharashtra,
+Kochi,4.2,2-3 days,October-March,[' Kochi (also known as Cochin) is a city...'],0,Kerala,
+Ahmedabad,4.2,2-3 days,October-March,[' Ahmedabad is the largest city...'],0,Gujarat,
+Kanha National Park,4.4,2-3 days,October-June,[' Kanha National Park is a vast expanse...'],0,Madhya Pradesh,
+Mysore,4.3,1-2 days,October-March,[' Mysore (or Mysuru) is a city...'],0,Karnataka,
+Chandigarh,4.2,1-2 days,October-March,[' Chandigarh is a city...'],0,Chandigarh,
+Hampi,4.5,2-3 days,October-March,[' Hampi is an ancient village...'],0,Karnataka,
+Gulmarg,4.4,2-3 days,October-March,[' Gulmarg is a town...'],4,Jammu and Kashmir,
+Almora,4.1,2-3 days,April-June,[' Almora is a municipal board...'],4,Uttarakhand,
+Shirdi,4.2,1-2 days,October-March,[' Shirdi is a town...'],0,Maharashtra,
+Auli,4.4,2-3 days,January-March,[' Auli is a ski destination...'],4,Uttarakhand,
+Madurai,4.2,1-2 days,October-March,"[' Madurai is an energetic, ancient city...']",0,Tamil Nadu,
+Amarnath,4.3,3-5 days,July-August,[' Amarnath cave is a Hindu shrine...'],0,Jammu and Kashmir,
+Bodh Gaya,4.3,1-2 days,October-March,[' Bodh Gaya is a religious site...'],0,Bihar,
+Mahabaleshwar,4.2,2-3 days,October-June,[' Mahabaleshwar is a hill station...'],4,Maharashtra,
+Visakhapatnam,4.2,2-3 days,October-March,[' Visakhapatnam is a port city...'],0,Andhra Pradesh,
+Kasol,4.4,2-3 days,October-June,[' Kasol is a hamlet...'],4,Himachal Pradesh,
+Nashik,4.1,1-2 days,October-March,[' Nashik is an ancient holy city...'],0,Maharashtra,
+Tirupati,4.3,1-2 days,September-February,[' Tirupati is a city...'],0,Andhra Pradesh,
+Ujjain,4.2,1-2 days,October-March,[' Ujjain is an ancient city...'],0,Madhya Pradesh,
+Jim Corbett National Park,4.4,2-3 days,November-June,[' Jim Corbett National Park is a forested wildlife sanctuary...'],0,Uttarakhand,
+Gwalior,4.2,1-2 days,October-March,[' Gwalior is a city...'],0,Madhya Pradesh,
+Mathura,4.1,1-2 days,October-March,[' Mathura is a sacred city...'],0,Uttar Pradesh,
+Jog Falls,4.3,1-2 days,August-December,[' Jog Falls is a waterfall...'],0,Karnataka,
+Alibaug,4.1,1-2 days,October-March,[' Alibaug is a coastal town...'],0,Maharashtra,
+Rameshwaram,4.2,1-2 days,October-March,[' Rameswaram is a town...'],0,Tamil Nadu,
+Vrindavan,4.2,1-2 days,October-March,[' Vrindavan is a holy town...'],0,Uttar Pradesh,
+Coimbatore,4.1,1-2 days,September-March,[' Coimbatore is a city...'],0,Tamil Nadu,
+Lucknow,4.2,2-3 days,October-March,[' Lucknow is a large city...'],0,Uttar Pradesh,
+Digha,4,1-2 days,October-March,[' Digha is a seaside resort town...'],0,West Bengal,
+Dharamshala,4.3,2-3 days,March-June,[' Dharamshala is a city...'],4,Himachal Pradesh,
+Kovalam,4.2,2-3 days,September-March,[' Kovalam is a small coastal town...'],0,Kerala,
+Kaziranga National Park,4.4,2-3 days,November-April,[' Kaziranga National Park...'],0,Assam,
+Madikeri,4.2,2-3 days,October-May,[' Madikeri is a hill station...'],4,Karnataka,
+Matheran,4.1,1-2 days,October-May,[' Matheran is a hill station...'],4,Maharashtra,
+Ranthambore,4.4,2-3 days,October-June,[' Ranthambore National Park...'],0,Rajasthan,
+Agartala,4,1-2 days,October-March,[' Agartala is the capital city...'],0,Tripura,
+Khandala,4,1-2 days,October-May,[' Khandala is a hill station...'],4,Maharashtra,
+Kalimpong,4.2,2-3 days,March-June,[' Kalimpong is a hill station...'],4,West Bengal,
+Thanjavur,4.3,1-2 days,October-March,[' Thanjavur is a city...'],0,Tamil Nadu,
+Bhubaneswar,4.1,2-3 days,October-March,[' Bhubaneswar is an ancient city...'],0,Odisha,
+Ajmer,4.1,1-2 days,October-March,[' Ajmer is a city...'],0,Rajasthan,
+Aurangabad,4.2,2-3 days,October-March,[' Aurangabad is a city...'],0,Maharashtra,
+Jammu,4,1-2 days,September-April,[' Jammu is the winter capital...'],0,Jammu and Kashmir,
+Dehradun,4.1,2-3 days,March-June,[' Dehradun is the capital...'],0,Uttarakhand,
+Puri,4.3,2-3 days,October-March,[' Puri is a coastal city...'],0,Odisha,
+Cherrapunji,4.4,2-3 days,October-May,[' Cherrapunji is a subdivisional town...'],0,Meghalaya,
+Bikaner,4.1,1-2 days,October-March,[' Bikaner is a city...'],0,Rajasthan,
+Shimoga (Shivamogga),4.1,1-2 days,October-March,[' Shimoga is a city...'],0,Karnataka,
+Hogenakkal,4.1,1-2 days,October-March,[' Hogenakkal is a waterfall...'],0,Tamil Nadu,
+Gir National Park,4.3,2-3 days,December-March,[' Gir National Park is a wildlife sanctuary...'],0,Gujarat,
+Kasauli,4.1,1-2 days,April-June,[' Kasauli is a small hill town...'],4,Himachal Pradesh,
+Pushkar,4.1,1-2 days,October-March,[' Pushkar is a town...'],0,Rajasthan,
+Chittorgarh,4.2,1-2 days,October-March,[' Chittorgarh is a city...'],0,Rajasthan,
+Nahan,4,1-2 days,September-March,[' Nahan is a town...'],4,Himachal Pradesh,
+Lavasa,4,1-2 days,September-March,"[' Lavasa is a private, planned city...']",4,Maharashtra,
+Poovar,4.3,1-2 days,September-March,[' Poovar is a tourist town...'],0,Kerala,
+Vijayawada,4.2,2-3 days,October-March,"[' Vijayawada is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Andhra Pradesh,
+Guntur,4,1-2 days,October-March,"[' Guntur is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Andhra Pradesh,
+Nellore,3.8,1-2 days,October-March,"[' Nellore is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Andhra Pradesh,
+Kurnool,4.1,2-3 days,October-March,"[' Kurnool is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Andhra Pradesh,
+Rajahmundry,4.3,2-3 days,October-March,"[' Rajahmundry is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Andhra Pradesh,
+Kakinada,4.2,1-2 days,October-March,"[' Kakinada is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Andhra Pradesh,
+Anantapur,3.9,1-2 days,October-March,"[' Anantapur is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Andhra Pradesh,
+Kadapa,4,2-3 days,October-March,"[' Kadapa is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Andhra Pradesh,
+Vizianagaram,3.7,1-2 days,October-March,"[' Vizianagaram is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Andhra Pradesh,
+Eluru,3.8,1-2 days,October-March,"[' Eluru is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Andhra Pradesh,
+Ongole,3.9,2-3 days,October-March,"[' Ongole is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Andhra Pradesh,
+Nandyal,3.6,1-2 days,October-March,"[' Nandyal is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Andhra Pradesh,
+Machilipatnam,4.1,2-3 days,October-March,"[' Machilipatnam is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Andhra Pradesh,
+Adoni,3.5,1-2 days,October-March,"[' Adoni is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Andhra Pradesh,
+Tenali,3.7,1-2 days,October-March,"[' Tenali is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Andhra Pradesh,
+Proddatur,3.8,1-2 days,October-March,"[' Proddatur is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Andhra Pradesh,
+Chittoor,4,2-3 days,October-March,"[' Chittoor is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Andhra Pradesh,
+Hindupur,3.6,1-2 days,October-March,"[' Hindupur is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Andhra Pradesh,
+Bhimavaram,4.2,2-3 days,October-March,"[' Bhimavaram is a beautiful destination in Andhra Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Andhra Pradesh,
+Itanagar,4.3,2-3 days,March-June,"[' Itanagar is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Arunachal Pradesh,
+Tawang,4.8,3-4 days,March-June,"[' Tawang is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,Arunachal Pradesh,
+Pasighat,4.1,2-3 days,March-June,"[' Pasighat is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Arunachal Pradesh,
+Ziro,4.5,2-3 days,March-June,"[' Ziro is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Arunachal Pradesh,
+Bomdila,4.2,1-2 days,March-June,"[' Bomdila is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Arunachal Pradesh,
+Roing,4,2-3 days,March-June,"[' Roing is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Arunachal Pradesh,
+Tezu,3.9,1-2 days,March-June,"[' Tezu is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Arunachal Pradesh,
+Aalo,4.1,2-3 days,March-June,"[' Aalo is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Arunachal Pradesh,
+Khonsa,3.8,1-2 days,March-June,"[' Khonsa is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Arunachal Pradesh,
+Yingkiong,4,2-3 days,March-June,"[' Yingkiong is a beautiful destination in Arunachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Arunachal Pradesh,
+Guwahati,4.4,2-3 days,October-April,"[' Guwahati is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Assam,
+Silchar,4,1-2 days,October-April,"[' Silchar is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Assam,
+Dibrugarh,4.2,2-3 days,October-April,"[' Dibrugarh is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Assam,
+Jorhat,4.1,1-2 days,October-April,"[' Jorhat is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Assam,
+Nagaon,3.9,1-2 days,October-April,"[' Nagaon is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Assam,
+Tinsukia,4,2-3 days,October-April,"[' Tinsukia is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Assam,
+Tezpur,4.3,2-3 days,October-April,"[' Tezpur is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Assam,
+Bongaigaon,3.8,1-2 days,October-April,"[' Bongaigaon is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Assam,
+Diphu,3.7,1-2 days,October-April,"[' Diphu is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Assam,
+Dhubri,3.6,1-2 days,October-April,"[' Dhubri is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Assam,
+North Lakhimpur,3.9,2-3 days,October-April,"[' North Lakhimpur is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Assam,
+Karimganj,3.8,1-2 days,October-April,"[' Karimganj is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Assam,
+Sivasagar,4.5,2-3 days,October-April,"[' Sivasagar is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Assam,
+Goalpara,3.7,1-2 days,October-April,"[' Goalpara is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Assam,
+Barpeta,4,2-3 days,October-April,"[' Barpeta is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Assam,
+Lanka,3.5,1-2 days,October-April,"[' Lanka is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Assam,
+Hojai,3.6,1-2 days,October-April,"[' Hojai is a beautiful destination in Assam, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Assam,
+Patna,4.2,2-3 days,October-April,"[' Patna is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Bihar,
+Gaya,4.4,2-3 days,October-April,"[' Gaya is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Bihar,
+Bhagalpur,4,1-2 days,October-April,"[' Bhagalpur is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Bihar,
+Muzaffarpur,3.9,1-2 days,October-April,"[' Muzaffarpur is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Bihar,
+Purnia,3.8,1-2 days,October-April,"[' Purnia is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Bihar,
+Darbhanga,4.1,2-3 days,October-April,"[' Darbhanga is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Bihar,
+Bihar Sharif,4.2,2-3 days,October-April,"[' Bihar Sharif is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Bihar,
+Arrah,3.7,1-2 days,October-April,"[' Arrah is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Bihar,
+Begusarai,3.9,1-2 days,October-April,"[' Begusarai is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Bihar,
+Katihar,3.8,1-2 days,October-April,"[' Katihar is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Bihar,
+Munger,4,2-3 days,October-April,"[' Munger is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Bihar,
+Chhapra,3.7,1-2 days,October-April,"[' Chhapra is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Bihar,
+Danapur,3.8,1-2 days,October-April,"[' Danapur is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Bihar,
+Saharsa,3.6,1-2 days,October-April,"[' Saharsa is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Bihar,
+Hajipur,3.9,1-2 days,October-April,"[' Hajipur is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Bihar,
+Sasaram,4.3,2-3 days,October-April,"[' Sasaram is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Bihar,
+Dehri,3.7,1-2 days,October-April,"[' Dehri is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Bihar,
+Siwan,3.8,1-2 days,October-April,"[' Siwan is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Bihar,
+Motihari,3.9,1-2 days,October-April,"[' Motihari is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Bihar,
+Nawada,4,2-3 days,October-April,"[' Nawada is a beautiful destination in Bihar, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Bihar,
+Raipur,4.2,2-3 days,October-April,"[' Raipur is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Chhattisgarh,
+Bhilai,4.1,2-3 days,October-April,"[' Bhilai is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Chhattisgarh,
+Bilaspur,4,2-3 days,October-April,"[' Bilaspur is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Chhattisgarh,
+Korba,3.9,1-2 days,October-April,"[' Korba is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Chhattisgarh,
+Rajnandgaon,3.8,1-2 days,October-April,"[' Rajnandgaon is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Chhattisgarh,
+Raigarh,3.9,1-2 days,October-April,"[' Raigarh is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Chhattisgarh,
+Jagdalpur,4.4,2-3 days,October-April,"[' Jagdalpur is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Chhattisgarh,
+Ambikapur,4.1,2-3 days,October-April,"[' Ambikapur is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Chhattisgarh,
+Dhamtari,3.7,1-2 days,October-April,"[' Dhamtari is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Chhattisgarh,
+Chirmiri,3.8,1-2 days,October-April,"[' Chirmiri is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Chhattisgarh,
+Bhatapara,3.6,1-2 days,October-April,"[' Bhatapara is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Chhattisgarh,
+Mahasamund,3.7,1-2 days,October-April,"[' Mahasamund is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Chhattisgarh,
+Dalli-Rajhara,3.6,1-2 days,October-April,"[' Dalli-Rajhara is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Chhattisgarh,
+Kanker,3.9,1-2 days,October-April,"[' Kanker is a beautiful destination in Chhattisgarh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Chhattisgarh,
+Panaji,4.6,2-3 days,October-March,"[' Panaji is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Goa,
+Vasco da Gama,4.3,2-3 days,October-March,"[' Vasco da Gama is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Goa,
+Margao,4.2,2-3 days,October-March,"[' Margao is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Goa,
+Mapusa,4.1,1-2 days,October-March,"[' Mapusa is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Goa,
+Ponda,4,1-2 days,October-March,"[' Ponda is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Goa,
+Bicholim,3.8,1-2 days,October-March,"[' Bicholim is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Goa,
+Curchorem,3.7,1-2 days,October-March,"[' Curchorem is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Goa,
+Sanguem,3.8,1-2 days,October-March,"[' Sanguem is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Goa,
+Canacona,4.5,2-3 days,October-March,"[' Canacona is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Goa,
+Quepem,3.9,1-2 days,October-March,"[' Quepem is a beautiful destination in Goa, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Goa,
+Surat,4.3,2-3 days,October-March,"[' Surat is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Gujarat,
+Vadodara,4.2,2-3 days,October-March,"[' Vadodara is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Gujarat,
+Rajkot,4.1,2-3 days,October-March,"[' Rajkot is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Gujarat,
+Bhavnagar,4,1-2 days,October-March,"[' Bhavnagar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Gujarat,
+Jamnagar,4.2,2-3 days,October-March,"[' Jamnagar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Gujarat,
+Junagadh,4.4,2-3 days,October-March,"[' Junagadh is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Gujarat,
+Gandhinagar,4.3,1-2 days,October-March,"[' Gandhinagar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Gujarat,
+Gandhidham,3.9,1-2 days,October-March,"[' Gandhidham is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Gujarat,
+Anand,4,1-2 days,October-March,"[' Anand is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Gujarat,
+Navsari,3.8,1-2 days,October-March,"[' Navsari is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Gujarat,
+Morbi,3.7,1-2 days,October-March,"[' Morbi is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Gujarat,
+Nadiad,3.8,1-2 days,October-March,"[' Nadiad is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Gujarat,
+Surendranagar,3.7,1-2 days,October-March,"[' Surendranagar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Gujarat,
+Bharuch,3.9,1-2 days,October-March,"[' Bharuch is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Gujarat,
+Mehsana,3.8,1-2 days,October-March,"[' Mehsana is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Gujarat,
+Bhuj,4.5,2-3 days,October-March,"[' Bhuj is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Gujarat,
+Porbandar,4.1,1-2 days,October-March,"[' Porbandar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Gujarat,
+Palanpur,3.8,1-2 days,October-March,"[' Palanpur is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Gujarat,
+Valsad,3.9,1-2 days,October-March,"[' Valsad is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Gujarat,
+Vapi,3.8,1-2 days,October-March,"[' Vapi is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Gujarat,
+Faridabad,4,1-2 days,October-April,"[' Faridabad is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Haryana,
+Gurugram,4.4,2-3 days,October-April,"[' Gurugram is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,Haryana,
+Panipat,4.1,1-2 days,October-April,"[' Panipat is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Haryana,
+Ambala,4,1-2 days,October-April,"[' Ambala is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Haryana,
+Yamunanagar,3.9,1-2 days,October-April,"[' Yamunanagar is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Haryana,
+Rohtak,3.8,1-2 days,October-April,"[' Rohtak is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Haryana,
+Hisar,3.9,1-2 days,October-April,"[' Hisar is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Haryana,
+Karnal,4.1,1-2 days,October-April,"[' Karnal is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Haryana,
+Sonipat,3.9,1-2 days,October-April,"[' Sonipat is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Haryana,
+Panchkula,4.2,2-3 days,October-April,"[' Panchkula is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Haryana,
+Bhiwani,3.8,1-2 days,October-April,"[' Bhiwani is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Haryana,
+Sirsa,3.8,1-2 days,October-April,"[' Sirsa is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Haryana,
+Bahadurgarh,3.7,1-2 days,October-April,"[' Bahadurgarh is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Haryana,
+Jind,3.7,1-2 days,October-April,"[' Jind is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Haryana,
+Thanesar,4,2-3 days,October-April,"[' Thanesar is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Haryana,
+Kaithal,3.8,1-2 days,October-April,"[' Kaithal is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Haryana,
+Rewari,3.9,1-2 days,October-April,"[' Rewari is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Haryana,
+Palwal,3.8,1-2 days,October-April,"[' Palwal is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Haryana,
+Solan,4.1,2-3 days,March-June,"[' Solan is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Himachal Pradesh,
+Mandi,4.2,2-3 days,March-June,"[' Mandi is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Himachal Pradesh,
+Baddi,3.8,1-2 days,March-June,"[' Baddi is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Himachal Pradesh,
+Sundarnagar,4,1-2 days,March-June,"[' Sundarnagar is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Himachal Pradesh,
+Chamba,4.3,2-3 days,March-June,"[' Chamba is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Himachal Pradesh,
+Una,3.9,1-2 days,March-June,"[' Una is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Himachal Pradesh,
+Kullu,4.5,2-3 days,March-June,"[' Kullu is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Himachal Pradesh,
+Hamirpur,3.8,1-2 days,March-June,"[' Hamirpur is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,Himachal Pradesh,
+Bilaspur HP,4,1-2 days,March-June,"[' Bilaspur HP is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Himachal Pradesh,
+Paonta Sahib,4.2,1-2 days,March-June,"[' Paonta Sahib is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Himachal Pradesh,
+Kangra,4.3,2-3 days,March-June,"[' Kangra is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Himachal Pradesh,
+Ranchi,4.2,2-3 days,October-April,"[' Ranchi is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,Jharkhand,
+Jamshedpur,4.1,2-3 days,October-April,"[' Jamshedpur is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Jharkhand,
+Dhanbad,3.9,1-2 days,October-April,"[' Dhanbad is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Jharkhand,
+Bokaro Steel City,4,2-3 days,October-April,"[' Bokaro Steel City is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,Jharkhand,
+Deoghar,4.3,2-3 days,October-April,"[' Deoghar is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,Jharkhand,
+Phusro,3.7,1-2 days,October-April,"[' Phusro is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Jharkhand,
+Hazaribagh,4.1,2-3 days,October-April,"[' Hazaribagh is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,Jharkhand,
+Giridih,3.9,1-2 days,October-April,"[' Giridih is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,Jharkhand,
+Ramgarh,3.8,1-2 days,October-April,"[' Ramgarh is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,Jharkhand,
+Medininagar,3.8,1-2 days,October-April,"[' Medininagar is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,Jharkhand,
+Chirkunda,3.7,1-2 days,October-April,"[' Chirkunda is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,Jharkhand,
+Morbi,4.4,2-3 days,October-March,"[' Morbi is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Gujarat
+Nadiad,4.6,1-2 days,October-March,"[' Nadiad is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Gujarat
+Surendranagar,4.5,3-4 days,October-March,"[' Surendranagar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Gujarat
+Bharuch,4,1-2 days,October-March,"[' Bharuch is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Gujarat
+Mehsana,3.9,1-2 days,October-March,"[' Mehsana is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Gujarat
+Bhuj,3.7,3-4 days,October-March,"[' Bhuj is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Gujarat
+Porbandar,3.7,3-4 days,October-March,"[' Porbandar is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Gujarat
+Palanpur,4.1,3-4 days,October-March,"[' Palanpur is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Gujarat
+Valsad,3.9,2-3 days,October-March,"[' Valsad is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Gujarat
+Vapi,4.4,3-4 days,October-March,"[' Vapi is a beautiful destination in Gujarat, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Gujarat
+Faridabad,4.8,3-4 days,October-April,"[' Faridabad is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Haryana
+Gurugram,3.7,3-4 days,October-April,"[' Gurugram is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Haryana
+Panipat,3.7,1-2 days,October-April,"[' Panipat is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Haryana
+Ambala,4.2,3-4 days,October-April,"[' Ambala is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Haryana
+Yamunanagar,3.5,2-3 days,October-April,"[' Yamunanagar is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Haryana
+Rohtak,3.6,3-4 days,October-April,"[' Rohtak is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Haryana
+Hisar,4.7,1-2 days,October-April,"[' Hisar is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Haryana
+Karnal,3.6,1-2 days,October-April,"[' Karnal is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Haryana
+Sonipat,4.8,3-4 days,October-April,"[' Sonipat is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Haryana
+Panchkula,4.1,3-4 days,October-April,"[' Panchkula is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Haryana
+Bhiwani,4.5,3-4 days,October-April,"[' Bhiwani is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Haryana
+Sirsa,4,1-2 days,October-April,"[' Sirsa is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Haryana
+Bahadurgarh,4.1,1-2 days,October-April,"[' Bahadurgarh is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Haryana
+Jind,4.1,1-2 days,October-April,"[' Jind is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Haryana
+Thanesar,3.7,3-4 days,October-April,"[' Thanesar is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Haryana
+Kaithal,4.6,3-4 days,October-April,"[' Kaithal is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Haryana
+Rewari,3.9,2-3 days,October-April,"[' Rewari is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Haryana
+Palwal,4.5,2-3 days,October-April,"[' Palwal is a beautiful destination in Haryana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Haryana
+Solan,4.9,2-3 days,March-June,"[' Solan is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Himachal Pradesh
+Mandi,4.7,3-4 days,March-June,"[' Mandi is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Himachal Pradesh
+Baddi,4.6,3-4 days,March-June,"[' Baddi is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Himachal Pradesh
+Sundarnagar,4.2,2-3 days,March-June,"[' Sundarnagar is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Himachal Pradesh
+Chamba,4.6,2-3 days,March-June,"[' Chamba is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Himachal Pradesh
+Una,4.5,1-2 days,March-June,"[' Una is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Himachal Pradesh
+Kullu,3.8,1-2 days,March-June,"[' Kullu is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Himachal Pradesh
+Hamirpur,4.6,3-4 days,March-June,"[' Hamirpur is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Himachal Pradesh
+Bilaspur HP,3.6,2-3 days,March-June,"[' Bilaspur HP is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Himachal Pradesh
+Paonta Sahib,4.8,1-2 days,March-June,"[' Paonta Sahib is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Himachal Pradesh
+Kangra,4.8,3-4 days,March-June,"[' Kangra is a beautiful destination in Himachal Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Himachal Pradesh
+Ranchi,3.6,1-2 days,October-April,"[' Ranchi is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Jharkhand
+Jamshedpur,4.1,2-3 days,October-April,"[' Jamshedpur is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Jharkhand
+Dhanbad,4.2,1-2 days,October-April,"[' Dhanbad is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Jharkhand
+Bokaro Steel City,4.3,1-2 days,October-April,"[' Bokaro Steel City is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Jharkhand
+Deoghar,4.2,1-2 days,October-April,"[' Deoghar is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Jharkhand
+Phusro,4.1,2-3 days,October-April,"[' Phusro is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Jharkhand
+Hazaribagh,3.9,3-4 days,October-April,"[' Hazaribagh is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Jharkhand
+Giridih,4.4,2-3 days,October-April,"[' Giridih is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Jharkhand
+Ramgarh,4.4,3-4 days,October-April,"[' Ramgarh is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Jharkhand
+Medininagar,3.9,2-3 days,October-April,"[' Medininagar is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Jharkhand
+Chirkunda,4.2,2-3 days,October-April,"[' Chirkunda is a beautiful destination in Jharkhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Jharkhand
+Hubli-Dharwad,4.2,1-2 days,October-March,"[' Hubli-Dharwad is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Karnataka
+Mangalore,4.6,2-3 days,October-March,"[' Mangalore is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Karnataka
+Belgaum,4.6,2-3 days,October-March,"[' Belgaum is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Karnataka
+Davangere,3.7,3-4 days,October-March,"[' Davangere is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Karnataka
+Bellary,4.1,3-4 days,October-March,"[' Bellary is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Karnataka
+Tumkur,3.9,1-2 days,October-March,"[' Tumkur is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Karnataka
+Shivamogga,4.4,1-2 days,October-March,"[' Shivamogga is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Karnataka
+Raichur,4.8,3-4 days,October-March,"[' Raichur is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Karnataka
+Bidar,4.9,2-3 days,October-March,"[' Bidar is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Karnataka
+Hospet,3.6,3-4 days,October-March,"[' Hospet is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Karnataka
+Gadag-Betigeri,4.8,2-3 days,October-March,"[' Gadag-Betigeri is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Karnataka
+Robertson Pet,3.7,1-2 days,October-March,"[' Robertson Pet is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Karnataka
+Hassan,3.7,1-2 days,October-March,"[' Hassan is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Karnataka
+Bhadravati,4.5,3-4 days,October-March,"[' Bhadravati is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Karnataka
+Chitradurga,4.3,2-3 days,October-March,"[' Chitradurga is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Karnataka
+Udupi,3.8,1-2 days,October-March,"[' Udupi is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Karnataka
+Kolar,4.6,1-2 days,October-March,"[' Kolar is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Karnataka
+Mandya,3.8,2-3 days,October-March,"[' Mandya is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Karnataka
+Chikmagalur,3.8,3-4 days,October-March,"[' Chikmagalur is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Karnataka
+Gangavati,3.6,1-2 days,October-March,"[' Gangavati is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Karnataka
+Bagalkot,4.9,3-4 days,October-March,"[' Bagalkot is a beautiful destination in Karnataka, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Karnataka
+Thiruvananthapuram,3.7,2-3 days,October-March,"[' Thiruvananthapuram is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Kerala
+Kozhikode,3.6,3-4 days,October-March,"[' Kozhikode is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Kerala
+Kollam,3.9,3-4 days,October-March,"[' Kollam is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Kerala
+Thrissur,4.6,1-2 days,October-March,"[' Thrissur is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Kerala
+Kannur,4.5,1-2 days,October-March,"[' Kannur is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Kerala
+Alappuzha,3.7,3-4 days,October-March,"[' Alappuzha is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Kerala
+Kottayam,4.1,2-3 days,October-March,"[' Kottayam is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Kerala
+Palakkad,4.1,2-3 days,October-March,"[' Palakkad is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Kerala
+Manjeri,3.6,1-2 days,October-March,"[' Manjeri is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Kerala
+Thalassery,3.9,2-3 days,October-March,"[' Thalassery is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Kerala
+Thrippunithura,3.8,1-2 days,October-March,"[' Thrippunithura is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Kerala
+Ponnani,3.6,2-3 days,October-March,"[' Ponnani is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Kerala
+Vatakara,3.6,1-2 days,October-March,"[' Vatakara is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Kerala
+Kanhangad,4.6,2-3 days,October-March,"[' Kanhangad is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Kerala
+Payyanur,4.1,1-2 days,October-March,"[' Payyanur is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Kerala
+Koyilandy,4,1-2 days,October-March,"[' Koyilandy is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Kerala
+Parappanangadi,4.2,1-2 days,October-March,"[' Parappanangadi is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Kerala
+Kalamassery,4.8,1-2 days,October-March,"[' Kalamassery is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Kerala
+Kodungallur,4.3,3-4 days,October-March,"[' Kodungallur is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Kerala
+Neyyattinkara,4,1-2 days,October-March,"[' Neyyattinkara is a beautiful destination in Kerala, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Kerala
+Indore,4.6,1-2 days,October-March,"[' Indore is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Madhya Pradesh
+Bhopal,3.6,3-4 days,October-March,"[' Bhopal is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Madhya Pradesh
+Jabalpur,4.4,2-3 days,October-March,"[' Jabalpur is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Madhya Pradesh
+Sagar,4.4,1-2 days,October-March,"[' Sagar is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Madhya Pradesh
+Ratlam,3.7,1-2 days,October-March,"[' Ratlam is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Madhya Pradesh
+Satna,4.5,1-2 days,October-March,"[' Satna is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Madhya Pradesh
+Dewas,3.8,1-2 days,October-March,"[' Dewas is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Madhya Pradesh
+Singrauli,3.7,1-2 days,October-March,"[' Singrauli is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Madhya Pradesh
+Burhanpur,4.4,1-2 days,October-March,"[' Burhanpur is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Madhya Pradesh
+Khandwa,4.2,2-3 days,October-March,"[' Khandwa is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Madhya Pradesh
+Bhind,4.7,1-2 days,October-March,"[' Bhind is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Madhya Pradesh
+Chhindwara,4,3-4 days,October-March,"[' Chhindwara is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Madhya Pradesh
+Guna,3.9,1-2 days,October-March,"[' Guna is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Madhya Pradesh
+Shivpuri,4.2,1-2 days,October-March,"[' Shivpuri is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Madhya Pradesh
+Vidisha,4.4,2-3 days,October-March,"[' Vidisha is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Madhya Pradesh
+Chhatarpur,4,1-2 days,October-March,"[' Chhatarpur is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Madhya Pradesh
+Damoh,4.2,2-3 days,October-March,"[' Damoh is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Madhya Pradesh
+Mandsaur,3.7,1-2 days,October-March,"[' Mandsaur is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Madhya Pradesh
+Khargone,4.8,3-4 days,October-March,"[' Khargone is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Madhya Pradesh
+Neemuch,4.4,1-2 days,October-March,"[' Neemuch is a beautiful destination in Madhya Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Madhya Pradesh
+Patiala,3.8,3-4 days,October-April,"[' Patiala is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Punjab
+Bathinda,4.2,2-3 days,October-April,"[' Bathinda is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Punjab
+Hoshiarpur,4.3,1-2 days,October-April,"[' Hoshiarpur is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Punjab
+Mohali,4.3,1-2 days,October-April,"[' Mohali is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Punjab
+Batala,3.6,2-3 days,October-April,"[' Batala is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Punjab
+Pathankot,4.1,3-4 days,October-April,"[' Pathankot is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Punjab
+Moga,3.7,3-4 days,October-April,"[' Moga is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Punjab
+Abohar,4.1,3-4 days,October-April,"[' Abohar is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Punjab
+Malerkotla,4.2,2-3 days,October-April,"[' Malerkotla is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Punjab
+Khanna,3.9,1-2 days,October-April,"[' Khanna is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Punjab
+Phagwara,3.7,3-4 days,October-April,"[' Phagwara is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Punjab
+Muktsar,3.8,3-4 days,October-April,"[' Muktsar is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Punjab
+Barnala,4.8,2-3 days,October-April,"[' Barnala is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Punjab
+Rajpura,3.8,1-2 days,October-April,"[' Rajpura is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Punjab
+Firozpur,4,1-2 days,October-April,"[' Firozpur is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Punjab
+Kapurthala,4.6,3-4 days,October-April,"[' Kapurthala is a beautiful destination in Punjab, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Punjab
+Kota,3.9,1-2 days,October-March,"[' Kota is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Rajasthan
+Bhilwara,3.9,3-4 days,October-March,"[' Bhilwara is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Rajasthan
+Alwar,4.6,2-3 days,October-March,"[' Alwar is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Rajasthan
+Bharatpur,3.8,1-2 days,October-March,"[' Bharatpur is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Rajasthan
+Sikar,4.7,3-4 days,October-March,"[' Sikar is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Rajasthan
+Pali,4.7,2-3 days,October-March,"[' Pali is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Rajasthan
+Sri Ganganagar,3.6,1-2 days,October-March,"[' Sri Ganganagar is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Rajasthan
+Tonk,3.6,1-2 days,October-March,"[' Tonk is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Rajasthan
+Kishangarh,4.7,3-4 days,October-March,"[' Kishangarh is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Rajasthan
+Beawar,3.6,3-4 days,October-March,"[' Beawar is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Rajasthan
+Hanumangarh,3.9,2-3 days,October-March,"[' Hanumangarh is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Rajasthan
+Dhaulpur,4.4,3-4 days,October-March,"[' Dhaulpur is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Rajasthan
+Sawai Madhopur,4.5,2-3 days,October-March,"[' Sawai Madhopur is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Rajasthan
+Churu,4.5,2-3 days,October-March,"[' Churu is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Rajasthan
+Gangapur City,4.6,1-2 days,October-March,"[' Gangapur City is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Rajasthan
+Jhunjhunu,3.6,2-3 days,October-March,"[' Jhunjhunu is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Rajasthan
+Baran,3.8,2-3 days,October-March,"[' Baran is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Rajasthan
+Makrana,4.8,1-2 days,October-March,"[' Makrana is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Rajasthan
+Nagaur,4.4,3-4 days,October-March,"[' Nagaur is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Rajasthan
+Banswara,4.1,2-3 days,October-March,"[' Banswara is a beautiful destination in Rajasthan, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Rajasthan
+Namchi,3.8,3-4 days,March-June,"[' Namchi is a beautiful destination in Sikkim, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Sikkim
+Gyalshing,4,2-3 days,March-June,"[' Gyalshing is a beautiful destination in Sikkim, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Sikkim
+Mangan,4.7,2-3 days,March-June,"[' Mangan is a beautiful destination in Sikkim, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Sikkim
+Singtam,3.9,1-2 days,March-June,"[' Singtam is a beautiful destination in Sikkim, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Sikkim
+Rangpo,3.6,2-3 days,March-June,"[' Rangpo is a beautiful destination in Sikkim, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Sikkim
+Nayabazar,4.2,3-4 days,March-June,"[' Nayabazar is a beautiful destination in Sikkim, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Sikkim
+Tiruchirappalli,3.8,2-3 days,October-March,"[' Tiruchirappalli is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Tamil Nadu
+Tiruppur,3.9,1-2 days,October-March,"[' Tiruppur is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Tamil Nadu
+Salem,3.7,2-3 days,October-March,"[' Salem is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Tamil Nadu
+Erode,4,1-2 days,October-March,"[' Erode is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Tamil Nadu
+Tirunelveli,3.7,3-4 days,October-March,"[' Tirunelveli is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Tamil Nadu
+Vellore,3.7,1-2 days,October-March,"[' Vellore is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Tamil Nadu
+Thoothukkudi,3.9,2-3 days,October-March,"[' Thoothukkudi is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Tamil Nadu
+Dindigul,4.7,2-3 days,October-March,"[' Dindigul is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Tamil Nadu
+Ranipet,4.1,2-3 days,October-March,"[' Ranipet is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Tamil Nadu
+Sivakasi,4.9,2-3 days,October-March,"[' Sivakasi is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Tamil Nadu
+Karur,3.8,3-4 days,October-March,"[' Karur is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Tamil Nadu
+Udhagamandalam,4.3,1-2 days,October-March,"[' Udhagamandalam is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Tamil Nadu
+Hosur,3.7,3-4 days,October-March,"[' Hosur is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Tamil Nadu
+Nagercoil,4.9,3-4 days,October-March,"[' Nagercoil is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Tamil Nadu
+Kanchipuram,3.9,3-4 days,October-March,"[' Kanchipuram is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Tamil Nadu
+Kumarapalayam,3.7,3-4 days,October-March,"[' Kumarapalayam is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Tamil Nadu
+Karaikudi,4.2,2-3 days,October-March,"[' Karaikudi is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Tamil Nadu
+Neyveli,4,1-2 days,October-March,"[' Neyveli is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Tamil Nadu
+Cuddalore,4.7,2-3 days,October-March,"[' Cuddalore is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Tamil Nadu
+Kumbakonam,4.6,3-4 days,October-March,"[' Kumbakonam is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Tamil Nadu
+Tiruvannamalai,4.6,2-3 days,October-March,"[' Tiruvannamalai is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Tamil Nadu
+Pollachi,3.9,3-4 days,October-March,"[' Pollachi is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Tamil Nadu
+Rajapalayam,4.2,1-2 days,October-March,"[' Rajapalayam is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Tamil Nadu
+Gudiyatham,3.7,3-4 days,October-March,"[' Gudiyatham is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Tamil Nadu
+Pudukkottai,4.9,1-2 days,October-March,"[' Pudukkottai is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Tamil Nadu
+Vaniyambadi,4.4,3-4 days,October-March,"[' Vaniyambadi is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Tamil Nadu
+Ambur,3.7,2-3 days,October-March,"[' Ambur is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Tamil Nadu
+Nagapattinam,3.9,2-3 days,October-March,"[' Nagapattinam is a beautiful destination in Tamil Nadu, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Tamil Nadu
+Warangal,4.7,2-3 days,October-March,"[' Warangal is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Telangana
+Nizamabad,4.6,2-3 days,October-March,"[' Nizamabad is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Telangana
+Khammam,4.7,2-3 days,October-March,"[' Khammam is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Telangana
+Karimnagar,4.7,3-4 days,October-March,"[' Karimnagar is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Telangana
+Ramagundam,3.6,2-3 days,October-March,"[' Ramagundam is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Telangana
+Mahbubnagar,3.7,3-4 days,October-March,"[' Mahbubnagar is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Telangana
+Nalgonda,3.9,2-3 days,October-March,"[' Nalgonda is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Telangana
+Adilabad,4.5,2-3 days,October-March,"[' Adilabad is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Telangana
+Suryapet,3.9,1-2 days,October-March,"[' Suryapet is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Telangana
+Miryalaguda,4.9,2-3 days,October-March,"[' Miryalaguda is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Telangana
+Jagtial,3.6,2-3 days,October-March,"[' Jagtial is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Telangana
+Mancherial,4.3,2-3 days,October-March,"[' Mancherial is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Telangana
+Kothagudem,3.6,1-2 days,October-March,"[' Kothagudem is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Telangana
+Siddipet,3.7,2-3 days,October-March,"[' Siddipet is a beautiful destination in Telangana, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Telangana
+Dharmanagar,3.7,1-2 days,October-April,"[' Dharmanagar is a beautiful destination in Tripura, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Tripura
+Kailasahar,4,2-3 days,October-April,"[' Kailasahar is a beautiful destination in Tripura, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Tripura
+Ambassa,4.4,3-4 days,October-April,"[' Ambassa is a beautiful destination in Tripura, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Tripura
+Belonia,3.7,1-2 days,October-April,"[' Belonia is a beautiful destination in Tripura, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Tripura
+Khowai,3.7,2-3 days,October-April,"[' Khowai is a beautiful destination in Tripura, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Tripura
+Teliamura,4.4,2-3 days,October-April,"[' Teliamura is a beautiful destination in Tripura, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Tripura
+Kanpur,3.8,1-2 days,October-April,"[' Kanpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,Uttar Pradesh
+Ghaziabad,3.5,1-2 days,October-April,"[' Ghaziabad is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Uttar Pradesh
+Noida,4.4,1-2 days,October-April,"[' Noida is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,Uttar Pradesh
+Meerut,3.9,1-2 days,October-April,"[' Meerut is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Prayagraj,4.3,1-2 days,October-April,"[' Prayagraj is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Bareilly,4.7,1-2 days,October-April,"[' Bareilly is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Aligarh,3.7,1-2 days,October-April,"[' Aligarh is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Moradabad,3.9,1-2 days,October-April,"[' Moradabad is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Saharanpur,4.6,2-3 days,October-April,"[' Saharanpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Uttar Pradesh
+Gorakhpur,3.6,1-2 days,October-April,"[' Gorakhpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Uttar Pradesh
+Firozabad,4.1,2-3 days,October-April,"[' Firozabad is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Uttar Pradesh
+Jhansi,4.7,3-4 days,October-April,"[' Jhansi is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Uttar Pradesh
+Muzaffarnagar,4.3,3-4 days,October-April,"[' Muzaffarnagar is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,Uttar Pradesh
+Rampur,3.7,3-4 days,October-April,"[' Rampur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Uttar Pradesh
+Shahjahanpur,4.9,3-4 days,October-April,"[' Shahjahanpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Uttar Pradesh
+Farrukhabad,4.6,2-3 days,October-April,"[' Farrukhabad is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Uttar Pradesh
+Maunath Bhanjan,4.1,1-2 days,October-April,"[' Maunath Bhanjan is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Hapur,3.9,1-2 days,October-April,"[' Hapur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,Uttar Pradesh
+Faizabad,4,3-4 days,October-April,"[' Faizabad is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Uttar Pradesh
+Etawah,4.4,1-2 days,October-April,"[' Etawah is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Mirzapur,4,2-3 days,October-April,"[' Mirzapur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Uttar Pradesh
+Bulandshahr,4.4,3-4 days,October-April,"[' Bulandshahr is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Uttar Pradesh
+Sambhal,4.3,1-2 days,October-April,"[' Sambhal is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Amroha,4.8,3-4 days,October-April,"[' Amroha is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Uttar Pradesh
+Hardoi,4.2,2-3 days,October-April,"[' Hardoi is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Uttar Pradesh
+Fatehpur,4.9,3-4 days,October-April,"[' Fatehpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Uttar Pradesh
+Raebareli,4.4,1-2 days,October-April,"[' Raebareli is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttar Pradesh
+Orai,4.1,2-3 days,October-April,"[' Orai is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,Uttar Pradesh
+Sitapur,4.5,2-3 days,October-April,"[' Sitapur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Uttar Pradesh
+Bahraich,4.6,3-4 days,October-April,"[' Bahraich is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,Uttar Pradesh
+Modinagar,3.7,2-3 days,October-April,"[' Modinagar is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,Uttar Pradesh
+Unnao,3.6,1-2 days,October-April,"[' Unnao is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,Uttar Pradesh
+Jaunpur,4.1,2-3 days,October-April,"[' Jaunpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Uttar Pradesh
+Lakhimpur,4,3-4 days,October-April,"[' Lakhimpur is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Uttar Pradesh
+Hathras,4.4,2-3 days,October-April,"[' Hathras is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Uttar Pradesh
+Banda,4.3,2-3 days,October-April,"[' Banda is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Uttar Pradesh
+Pilibhit,4.8,3-4 days,October-April,"[' Pilibhit is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,Uttar Pradesh
+Mughalsarai,4,2-3 days,October-April,"[' Mughalsarai is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Uttar Pradesh
+Barabanki,4.6,3-4 days,October-April,"[' Barabanki is a beautiful destination in Uttar Pradesh, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,Uttar Pradesh
+Haridwar,4.2,2-3 days,March-June,"[' Haridwar is a beautiful destination in Uttarakhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,Uttarakhand
+Roorkee,3.8,1-2 days,March-June,"[' Roorkee is a beautiful destination in Uttarakhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttarakhand
+Haldwani,4,3-4 days,March-June,"[' Haldwani is a beautiful destination in Uttarakhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,Uttarakhand
+Rudrapur,4.3,2-3 days,March-June,"[' Rudrapur is a beautiful destination in Uttarakhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,Uttarakhand
+Kashipur,4.8,1-2 days,March-June,"[' Kashipur is a beautiful destination in Uttarakhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,Uttarakhand
+Rishikesh,4.6,2-3 days,March-June,"[' Rishikesh is a beautiful destination in Uttarakhand, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,Uttarakhand
+Howrah,3.8,2-3 days,October-April,"[' Howrah is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Durgapur,4.9,2-3 days,October-April,"[' Durgapur is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Asansol,3.8,1-2 days,October-April,"[' Asansol is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,West Bengal
+Siliguri,3.8,1-2 days,October-April,"[' Siliguri is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,West Bengal
+Maheshtala,4.3,2-3 days,October-April,"[' Maheshtala is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Rajpur Sonarpur,4,2-3 days,October-April,"[' Rajpur Sonarpur is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,West Bengal
+Gopalpur,4.1,2-3 days,October-April,"[' Gopalpur is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,West Bengal
+Bhatpara,3.7,1-2 days,October-April,"[' Bhatpara is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,West Bengal
+South Dumdum,4.7,2-3 days,October-April,"[' South Dumdum is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Bardhaman,4.4,3-4 days,October-April,"[' Bardhaman is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,West Bengal
+Kamarhati,4.6,1-2 days,October-April,"[' Kamarhati is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,West Bengal
+Kulti,4.2,2-3 days,October-April,"[' Kulti is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Bally,3.7,2-3 days,October-April,"[' Bally is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",4,,West Bengal
+Barasat,4,1-2 days,October-April,"[' Barasat is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,West Bengal
+North Dumdum,4.7,1-2 days,October-April,"[' North Dumdum is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,West Bengal
+Baranagar,3.6,1-2 days,October-April,"[' Baranagar is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,West Bengal
+Uluberia,4.2,2-3 days,October-April,"[' Uluberia is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,West Bengal
+Naihati,4.4,2-3 days,October-April,"[' Naihati is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,West Bengal
+Bidhan Nagar,4.1,3-4 days,October-April,"[' Bidhan Nagar is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,West Bengal
+Kharagpur,3.5,3-4 days,October-April,"[' Kharagpur is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,West Bengal
+Haldia,4.2,2-3 days,October-April,"[' Haldia is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",2,,West Bengal
+Madhyamgram,3.8,1-2 days,October-April,"[' Madhyamgram is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,West Bengal
+Berhampore,4.6,1-2 days,October-April,"[' Berhampore is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,West Bengal
+Raiganj,4.4,1-2 days,October-April,"[' Raiganj is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",4,,West Bengal
+Serampore,4.2,2-3 days,October-April,"[' Serampore is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Hugli-Chinsurah,4.2,3-4 days,October-April,"[' Hugli-Chinsurah is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,West Bengal
+Medinipur,4.4,1-2 days,October-April,"[' Medinipur is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",3,,West Bengal
+Chandannagar,3.7,1-2 days,October-April,"[' Chandannagar is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",2,,West Bengal
+Balurghat,3.7,1-2 days,October-April,"[' Balurghat is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",0,,West Bengal
+Basirhat,4.7,2-3 days,October-April,"[' Basirhat is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",3,,West Bengal
+Bankura,4.2,3-4 days,October-April,"[' Bankura is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",3,,West Bengal
+Chakdaha,4.8,3-4 days,October-April,"[' Chakdaha is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",0,,West Bengal
+Darjeeling,4.8,2-3 days,October-April,"[' Darjeeling is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",1,,West Bengal
+Alipurduar,3.5,3-4 days,October-April,"[' Alipurduar is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",1,,West Bengal
+Purulia,4,2-3 days,October-April,"[' Purulia is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 2-3 days getaway. ']",0,,West Bengal
+Jangipur,4.2,3-4 days,October-April,"[' Jangipur is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",4,,West Bengal
+Bangaon,3.9,1-2 days,October-April,"[' Bangaon is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 1-2 days getaway. ']",1,,West Bengal
+Cooch Behar,4.4,3-4 days,October-April,"[' Cooch Behar is a beautiful destination in West Bengal, known for its unique culture, historical landmarks, and vibrant local life. A perfect spot for a 3-4 days getaway. ']",2,,West Bengal
