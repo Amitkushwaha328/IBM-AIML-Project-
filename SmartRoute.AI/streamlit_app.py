@@ -76,11 +76,11 @@ def safe_read_csv(filename):
 @st.cache_data(ttl=60)
 def load_data():
     return {
-        "Cities": safe_read_csv("clean_city.csv"),
-        "Hotels": safe_read_csv("clean_hotel.csv"),
-        "Places": safe_read_csv("clean_places.csv"),
-        "Food": safe_read_csv("clean_food.csv"),
-        "Transport": safe_read_csv("clean_transport.csv"),
+        "Cities": safe_read_csv("SmartRoute.AI/clean_city.csv"),
+        "Hotels": safe_read_csv("SmartRoute.AI/clean_hotel.csv"),
+        "Places": safe_read_csv("SmartRoute.AI/clean_places.csv"),
+        "Food":   safe_read_csv("SmartRoute.AI/clean_food.csv"),
+        "Transport": safe_read_csv("SmartRoute.AI/clean_transport.csv"),
     }
 
 data = load_data()
@@ -628,4 +628,5 @@ elif mode == "🔐 Admin Dashboard":
     AICTE – Edunet Foundation Internship<br>
     Built with Streamlit & Gemini AI
     </div>
+
     """, unsafe_allow_html=True)
