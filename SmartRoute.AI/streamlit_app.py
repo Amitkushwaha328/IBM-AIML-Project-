@@ -206,7 +206,7 @@ if mode == "🌍 Trip Planner":
                 try:
                     genai.configure(api_key=api_key)
                     # USING YOUR PREFERRED MODEL NAME
-                    model = genai.GenerativeModel('gemini-2.0-flash')
+                    model = genai.GenerativeModel('gemini-flash-latest')
 
                     city_list = ", ".join(data['Cities']['city'].unique()) if not data['Cities'].empty else "Manali, Goa, Jaipur, Kerala"
                     
